@@ -534,7 +534,7 @@ const playable: Character[] = [
     setting: "Ancient Greece",
     palette: { accent: "#d0a64e", sky: "#1e4766", ground: "#15130f" },
     // Her harbour is far wider than the others, so it sits lower and centred.
-    framing: wideHome({ sceneTop: "22%" }),
+    framing: wideHome(),
     note: "Kassandra is treated as the canonical protagonist of Odyssey, following the novelisation.",
     sources: [wiki("Kassandra")],
     timeline: [
