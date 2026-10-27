@@ -1,0 +1,6752 @@
+{
+  "characters": {
+    "altair": {
+      "render": {
+        "src": "/images/characters/altair/render-604.260de547.webp",
+        "w": 604,
+        "h": 1719,
+        "sources": [
+          {
+            "src": "/images/characters/altair/render-360.08759e01.webp",
+            "w": 360,
+            "h": 1025
+          },
+          {
+            "src": "/images/characters/altair/render-560.e017be0f.webp",
+            "w": 560,
+            "h": 1594
+          },
+          {
+            "src": "/images/characters/altair/render-604.260de547.webp",
+            "w": 604,
+            "h": 1719
+          }
+        ],
+        "headX": 0.424
+      },
+      "scene": "masyaf",
+      "portrait": "/images/characters/altair/portrait.fe79642b.webp",
+      "card": "/images/characters/altair/card.88e04ae2.webp",
+      "bio": {
+        "src": "/images/characters/altair/plates/bio-1280.b59fba1f.webp",
+        "w": 1280,
+        "h": 720,
+        "sources": [
+          {
+            "src": "/images/characters/altair/plates/bio-720.03da9345.webp",
+            "w": 720,
+            "h": 405
+          },
+          {
+            "src": "/images/characters/altair/plates/bio-1100.af571903.webp",
+            "w": 1100,
+            "h": 619
+          },
+          {
+            "src": "/images/characters/altair/plates/bio-1280.b59fba1f.webp",
+            "w": 1280,
+            "h": 720
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/altair/plates/gal-1-1440.9387626a.webp",
+          "w": 1440,
+          "h": 900,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/gal-1-520.5686eb07.webp",
+              "w": 520,
+              "h": 325
+            },
+            {
+              "src": "/images/characters/altair/plates/gal-1-900.1d2aa33e.webp",
+              "w": 900,
+              "h": 562
+            },
+            {
+              "src": "/images/characters/altair/plates/gal-1-1440.9387626a.webp",
+              "w": 1440,
+              "h": 900
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/altair/plates/gal-2-1440.c80e2ac3.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/gal-2-520.1f1a22e6.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/altair/plates/gal-2-900.ce626df5.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/altair/plates/gal-2-1440.c80e2ac3.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/altair/plates/gal-3-1440.99822c5c.webp",
+          "w": 1440,
+          "h": 817,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/gal-3-520.8a48cbdd.webp",
+              "w": 520,
+              "h": 295
+            },
+            {
+              "src": "/images/characters/altair/plates/gal-3-900.28e70c62.webp",
+              "w": 900,
+              "h": 511
+            },
+            {
+              "src": "/images/characters/altair/plates/gal-3-1440.99822c5c.webp",
+              "w": 1440,
+              "h": 817
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/altair/plates/gal-4-1440.a519df95.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/gal-4-520.2f0c3cd7.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/altair/plates/gal-4-900.38d5e9ea.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/altair/plates/gal-4-1440.a519df95.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/altair/plates/gal-5-1440.a501e7e3.webp",
+          "w": 1440,
+          "h": 798,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/gal-5-520.ef76383e.webp",
+              "w": 520,
+              "h": 288
+            },
+            {
+              "src": "/images/characters/altair/plates/gal-5-900.6756fd6a.webp",
+              "w": 900,
+              "h": 499
+            },
+            {
+              "src": "/images/characters/altair/plates/gal-5-1440.a501e7e3.webp",
+              "w": 1440,
+              "h": 798
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/altair/plates/mom-1-560.36adf07c.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/mom-1-320.273d980a.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/altair/plates/mom-1-560.36adf07c.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/altair/plates/mom-2-560.0b6e1476.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/mom-2-320.9b817137.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/altair/plates/mom-2-560.0b6e1476.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/altair/plates/mom-3-560.585d3c75.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/mom-3-320.e94cf9fa.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/altair/plates/mom-3-560.585d3c75.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/altair/plates/mom-4-560.dc402b8e.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/mom-4-320.8df3a240.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/altair/plates/mom-4-560.dc402b8e.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/altair/plates/mom-5-560.d16e8ba7.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/mom-5-320.b918dc34.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/altair/plates/mom-5-560.d16e8ba7.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/altair/plates/mom-6-560.ac29a452.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/mom-6-320.a15cf072.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/altair/plates/mom-6-560.ac29a452.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/altair/plates/mom-7-560.7bf60b26.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/mom-7-320.34bed3ad.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/altair/plates/mom-7-560.7bf60b26.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/altair/plates/mom-8-560.22c9a39f.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/altair/plates/mom-8-320.88fce60a.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/altair/plates/mom-8-560.22c9a39f.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "ezio": {
+      "render": {
+        "src": "/images/characters/ezio/render-1155.278980bc.webp",
+        "w": 1155,
+        "h": 3000,
+        "sources": [
+          {
+            "src": "/images/characters/ezio/render-360.aefdeaad.webp",
+            "w": 360,
+            "h": 935
+          },
+          {
+            "src": "/images/characters/ezio/render-560.0248b406.webp",
+            "w": 560,
+            "h": 1455
+          },
+          {
+            "src": "/images/characters/ezio/render-720.e357cc22.webp",
+            "w": 720,
+            "h": 1870
+          },
+          {
+            "src": "/images/characters/ezio/render-900.e98170d3.webp",
+            "w": 900,
+            "h": 2338
+          },
+          {
+            "src": "/images/characters/ezio/render-1155.278980bc.webp",
+            "w": 1155,
+            "h": 3000
+          }
+        ],
+        "headX": 0.418
+      },
+      "scene": "florence",
+      "portrait": "/images/characters/ezio/portrait.4ba6ea3f.webp",
+      "card": "/images/characters/ezio/card.dc1176f8.webp",
+      "bio": {
+        "src": "/images/characters/ezio/plates/bio-1440.df53b1a1.webp",
+        "w": 1440,
+        "h": 960,
+        "sources": [
+          {
+            "src": "/images/characters/ezio/plates/bio-720.77237512.webp",
+            "w": 720,
+            "h": 480
+          },
+          {
+            "src": "/images/characters/ezio/plates/bio-1100.f7879473.webp",
+            "w": 1100,
+            "h": 733
+          },
+          {
+            "src": "/images/characters/ezio/plates/bio-1440.df53b1a1.webp",
+            "w": 1440,
+            "h": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/ezio/plates/gal-1-960.bcb3cb75.webp",
+          "w": 960,
+          "h": 652,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/gal-1-520.d322be23.webp",
+              "w": 520,
+              "h": 353
+            },
+            {
+              "src": "/images/characters/ezio/plates/gal-1-900.92855c69.webp",
+              "w": 900,
+              "h": 611
+            },
+            {
+              "src": "/images/characters/ezio/plates/gal-1-960.bcb3cb75.webp",
+              "w": 960,
+              "h": 652
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/ezio/plates/gal-2-1440.efb19715.webp",
+          "w": 1440,
+          "h": 1084,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/gal-2-520.2b26529b.webp",
+              "w": 520,
+              "h": 391
+            },
+            {
+              "src": "/images/characters/ezio/plates/gal-2-900.fd984a27.webp",
+              "w": 900,
+              "h": 678
+            },
+            {
+              "src": "/images/characters/ezio/plates/gal-2-1440.efb19715.webp",
+              "w": 1440,
+              "h": 1084
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/ezio/plates/gal-3-1158.e75da830.webp",
+          "w": 1158,
+          "h": 693,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/gal-3-520.3ffe95e9.webp",
+              "w": 520,
+              "h": 311
+            },
+            {
+              "src": "/images/characters/ezio/plates/gal-3-900.c3e20037.webp",
+              "w": 900,
+              "h": 539
+            },
+            {
+              "src": "/images/characters/ezio/plates/gal-3-1158.e75da830.webp",
+              "w": 1158,
+              "h": 693
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/ezio/plates/gal-4-1158.0b7bbc44.webp",
+          "w": 1158,
+          "h": 693,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/gal-4-520.c1fe26b8.webp",
+              "w": 520,
+              "h": 311
+            },
+            {
+              "src": "/images/characters/ezio/plates/gal-4-900.471b42f7.webp",
+              "w": 900,
+              "h": 539
+            },
+            {
+              "src": "/images/characters/ezio/plates/gal-4-1158.0b7bbc44.webp",
+              "w": 1158,
+              "h": 693
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/ezio/plates/gal-5-956.f8df173d.webp",
+          "w": 956,
+          "h": 684,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/gal-5-520.68c886a9.webp",
+              "w": 520,
+              "h": 372
+            },
+            {
+              "src": "/images/characters/ezio/plates/gal-5-900.3aaeed5b.webp",
+              "w": 900,
+              "h": 644
+            },
+            {
+              "src": "/images/characters/ezio/plates/gal-5-956.f8df173d.webp",
+              "w": 956,
+              "h": 684
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/ezio/plates/mom-1-560.0b153467.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/mom-1-320.ab0ccb04.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/ezio/plates/mom-1-560.0b153467.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/ezio/plates/mom-2-560.1258e280.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/mom-2-320.d938b510.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/ezio/plates/mom-2-560.1258e280.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/ezio/plates/mom-3-560.9a49bdbb.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/mom-3-320.9897376f.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/ezio/plates/mom-3-560.9a49bdbb.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/ezio/plates/mom-4-560.35b1415c.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/mom-4-320.b504466d.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/ezio/plates/mom-4-560.35b1415c.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/ezio/plates/mom-5-560.578ece85.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/mom-5-320.6ef854d2.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/ezio/plates/mom-5-560.578ece85.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/ezio/plates/mom-6-560.5751db7a.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/mom-6-320.c459c28b.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/ezio/plates/mom-6-560.5751db7a.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/ezio/plates/mom-7-560.be7fe6e7.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/mom-7-320.17d9432c.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/ezio/plates/mom-7-560.be7fe6e7.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/ezio/plates/mom-8-560.41c312c2.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/ezio/plates/mom-8-320.c882083f.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/ezio/plates/mom-8-560.41c312c2.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "connor": {
+      "render": {
+        "src": "/images/characters/connor/render-865.e5221f89.webp",
+        "w": 865,
+        "h": 1640,
+        "sources": [
+          {
+            "src": "/images/characters/connor/render-360.9fc26734.webp",
+            "w": 360,
+            "h": 683
+          },
+          {
+            "src": "/images/characters/connor/render-560.ce9e0ff5.webp",
+            "w": 560,
+            "h": 1062
+          },
+          {
+            "src": "/images/characters/connor/render-720.93f00365.webp",
+            "w": 720,
+            "h": 1365
+          },
+          {
+            "src": "/images/characters/connor/render-865.e5221f89.webp",
+            "w": 865,
+            "h": 1640
+          }
+        ],
+        "headX": 0.532
+      },
+      "scene": "frontier",
+      "portrait": "/images/characters/connor/portrait.2e99d7d9.webp",
+      "card": "/images/characters/connor/card.bfcab08c.webp",
+      "bio": {
+        "src": "/images/characters/connor/plates/bio-1440.f0b8cbbe.webp",
+        "w": 1440,
+        "h": 613,
+        "sources": [
+          {
+            "src": "/images/characters/connor/plates/bio-720.c0f4f48f.webp",
+            "w": 720,
+            "h": 306
+          },
+          {
+            "src": "/images/characters/connor/plates/bio-1100.455c775e.webp",
+            "w": 1100,
+            "h": 468
+          },
+          {
+            "src": "/images/characters/connor/plates/bio-1440.f0b8cbbe.webp",
+            "w": 1440,
+            "h": 613
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/connor/plates/gal-1-1440.6a0a8aa7.webp",
+          "w": 1440,
+          "h": 1123,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/gal-1-520.5a2ffd8a.webp",
+              "w": 520,
+              "h": 406
+            },
+            {
+              "src": "/images/characters/connor/plates/gal-1-900.a76feef6.webp",
+              "w": 900,
+              "h": 702
+            },
+            {
+              "src": "/images/characters/connor/plates/gal-1-1440.6a0a8aa7.webp",
+              "w": 1440,
+              "h": 1123
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/connor/plates/gal-2-1440.575418f3.webp",
+          "w": 1440,
+          "h": 613,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/gal-2-520.017a6d37.webp",
+              "w": 520,
+              "h": 221
+            },
+            {
+              "src": "/images/characters/connor/plates/gal-2-900.7f3a12cc.webp",
+              "w": 900,
+              "h": 383
+            },
+            {
+              "src": "/images/characters/connor/plates/gal-2-1440.575418f3.webp",
+              "w": 1440,
+              "h": 613
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/connor/plates/gal-3-1440.ac66cec4.webp",
+          "w": 1440,
+          "h": 613,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/gal-3-520.ff57686b.webp",
+              "w": 520,
+              "h": 221
+            },
+            {
+              "src": "/images/characters/connor/plates/gal-3-900.5345bf74.webp",
+              "w": 900,
+              "h": 383
+            },
+            {
+              "src": "/images/characters/connor/plates/gal-3-1440.ac66cec4.webp",
+              "w": 1440,
+              "h": 613
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/connor/plates/gal-4-1440.5f878ce1.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/gal-4-520.dc2e587f.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/connor/plates/gal-4-900.a7455f54.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/connor/plates/gal-4-1440.5f878ce1.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/connor/plates/gal-5-1440.a716880c.webp",
+          "w": 1440,
+          "h": 646,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/gal-5-520.f90cd059.webp",
+              "w": 520,
+              "h": 233
+            },
+            {
+              "src": "/images/characters/connor/plates/gal-5-900.e13b90d6.webp",
+              "w": 900,
+              "h": 404
+            },
+            {
+              "src": "/images/characters/connor/plates/gal-5-1440.a716880c.webp",
+              "w": 1440,
+              "h": 646
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/connor/plates/mom-1-560.290535e8.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/mom-1-320.e6d05a40.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/connor/plates/mom-1-560.290535e8.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/connor/plates/mom-2-560.a2f6253d.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/mom-2-320.a4b8736c.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/connor/plates/mom-2-560.a2f6253d.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/connor/plates/mom-3-560.9a98bfc9.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/mom-3-320.da9f835f.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/connor/plates/mom-3-560.9a98bfc9.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/connor/plates/mom-4-560.c6f6961e.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/mom-4-320.53f94d03.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/connor/plates/mom-4-560.c6f6961e.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/connor/plates/mom-5-560.77c1882b.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/mom-5-320.8357d096.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/connor/plates/mom-5-560.77c1882b.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/connor/plates/mom-6-560.bfa4e562.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/mom-6-320.eed4e34a.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/connor/plates/mom-6-560.bfa4e562.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/connor/plates/mom-7-560.ba35a7c1.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/mom-7-320.a8a75c34.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/connor/plates/mom-7-560.ba35a7c1.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/connor/plates/mom-8-560.6eecf6a5.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/connor/plates/mom-8-320.f2090f19.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/connor/plates/mom-8-560.6eecf6a5.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "edward": {
+      "render": {
+        "src": "/images/characters/edward/render-832.764a239a.webp",
+        "w": 832,
+        "h": 1464,
+        "sources": [
+          {
+            "src": "/images/characters/edward/render-360.2b65bb63.webp",
+            "w": 360,
+            "h": 633
+          },
+          {
+            "src": "/images/characters/edward/render-560.a04fba92.webp",
+            "w": 560,
+            "h": 985
+          },
+          {
+            "src": "/images/characters/edward/render-720.402f1197.webp",
+            "w": 720,
+            "h": 1267
+          },
+          {
+            "src": "/images/characters/edward/render-832.764a239a.webp",
+            "w": 832,
+            "h": 1464
+          }
+        ],
+        "headX": 0.377
+      },
+      "scene": "caribbean",
+      "portrait": "/images/characters/edward/portrait.05fc2b01.webp",
+      "card": "/images/characters/edward/card.ec069f31.webp",
+      "bio": {
+        "src": "/images/characters/edward/plates/bio-1440.c400729f.webp",
+        "w": 1440,
+        "h": 810,
+        "sources": [
+          {
+            "src": "/images/characters/edward/plates/bio-720.6abefd3b.webp",
+            "w": 720,
+            "h": 405
+          },
+          {
+            "src": "/images/characters/edward/plates/bio-1100.d6d28609.webp",
+            "w": 1100,
+            "h": 619
+          },
+          {
+            "src": "/images/characters/edward/plates/bio-1440.c400729f.webp",
+            "w": 1440,
+            "h": 810
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/edward/plates/gal-1-1440.7e943532.webp",
+          "w": 1440,
+          "h": 814,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/gal-1-520.0c519bb6.webp",
+              "w": 520,
+              "h": 294
+            },
+            {
+              "src": "/images/characters/edward/plates/gal-1-900.5c50dcc1.webp",
+              "w": 900,
+              "h": 509
+            },
+            {
+              "src": "/images/characters/edward/plates/gal-1-1440.7e943532.webp",
+              "w": 1440,
+              "h": 814
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/edward/plates/gal-2-1440.73fa78a9.webp",
+          "w": 1440,
+          "h": 811,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/gal-2-520.9f2ea8f4.webp",
+              "w": 520,
+              "h": 293
+            },
+            {
+              "src": "/images/characters/edward/plates/gal-2-900.e1e86bd1.webp",
+              "w": 900,
+              "h": 507
+            },
+            {
+              "src": "/images/characters/edward/plates/gal-2-1440.73fa78a9.webp",
+              "w": 1440,
+              "h": 811
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/edward/plates/gal-3-1440.645425a2.webp",
+          "w": 1440,
+          "h": 900,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/gal-3-520.91a1033b.webp",
+              "w": 520,
+              "h": 325
+            },
+            {
+              "src": "/images/characters/edward/plates/gal-3-900.e9d9e34c.webp",
+              "w": 900,
+              "h": 562
+            },
+            {
+              "src": "/images/characters/edward/plates/gal-3-1440.645425a2.webp",
+              "w": 1440,
+              "h": 900
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/edward/plates/gal-4-1440.3eabda18.webp",
+          "w": 1440,
+          "h": 652,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/gal-4-520.3f4fe625.webp",
+              "w": 520,
+              "h": 235
+            },
+            {
+              "src": "/images/characters/edward/plates/gal-4-900.f673ebd5.webp",
+              "w": 900,
+              "h": 408
+            },
+            {
+              "src": "/images/characters/edward/plates/gal-4-1440.3eabda18.webp",
+              "w": 1440,
+              "h": 652
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/edward/plates/gal-5-1440.ccc09945.webp",
+          "w": 1440,
+          "h": 579,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/gal-5-520.5107f59a.webp",
+              "w": 520,
+              "h": 209
+            },
+            {
+              "src": "/images/characters/edward/plates/gal-5-900.092778d7.webp",
+              "w": 900,
+              "h": 362
+            },
+            {
+              "src": "/images/characters/edward/plates/gal-5-1440.ccc09945.webp",
+              "w": 1440,
+              "h": 579
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/edward/plates/mom-1-560.4720acab.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/mom-1-320.9a3c5251.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/edward/plates/mom-1-560.4720acab.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/edward/plates/mom-2-560.f00898e8.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/mom-2-320.6c886005.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/edward/plates/mom-2-560.f00898e8.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/edward/plates/mom-3-560.8d896cca.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/mom-3-320.23e9fe64.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/edward/plates/mom-3-560.8d896cca.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/edward/plates/mom-4-560.0dd249b4.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/mom-4-320.ee0b5dec.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/edward/plates/mom-4-560.0dd249b4.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/edward/plates/mom-5-560.cfa10be9.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/mom-5-320.33ffabfb.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/edward/plates/mom-5-560.cfa10be9.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/edward/plates/mom-6-560.45c4abf8.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/mom-6-320.2c5ee8c4.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/edward/plates/mom-6-560.45c4abf8.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/edward/plates/mom-7-560.7566a89a.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/mom-7-320.5af611ad.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/edward/plates/mom-7-560.7566a89a.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/edward/plates/mom-8-560.37778cbd.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/edward/plates/mom-8-320.245a9c3c.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/edward/plates/mom-8-560.37778cbd.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "bayek": {
+      "render": {
+        "src": "/images/characters/bayek/render-1503.61771a8e.webp",
+        "w": 1503,
+        "h": 3000,
+        "sources": [
+          {
+            "src": "/images/characters/bayek/render-360.bb08f563.webp",
+            "w": 360,
+            "h": 719
+          },
+          {
+            "src": "/images/characters/bayek/render-560.871f16b1.webp",
+            "w": 560,
+            "h": 1118
+          },
+          {
+            "src": "/images/characters/bayek/render-720.82af079c.webp",
+            "w": 720,
+            "h": 1437
+          },
+          {
+            "src": "/images/characters/bayek/render-900.bc6aa62f.webp",
+            "w": 900,
+            "h": 1796
+          },
+          {
+            "src": "/images/characters/bayek/render-1400.38baa980.webp",
+            "w": 1400,
+            "h": 2794
+          },
+          {
+            "src": "/images/characters/bayek/render-1503.61771a8e.webp",
+            "w": 1503,
+            "h": 3000
+          }
+        ],
+        "headX": 0.435
+      },
+      "scene": "siwa",
+      "portrait": "/images/characters/bayek/portrait.43d3f69d.webp",
+      "card": "/images/characters/bayek/card.5563d1ec.webp",
+      "bio": {
+        "src": "/images/characters/bayek/plates/bio-1440.08bf9c6d.webp",
+        "w": 1440,
+        "h": 666,
+        "sources": [
+          {
+            "src": "/images/characters/bayek/plates/bio-720.9cce61ad.webp",
+            "w": 720,
+            "h": 333
+          },
+          {
+            "src": "/images/characters/bayek/plates/bio-1100.789067c1.webp",
+            "w": 1100,
+            "h": 509
+          },
+          {
+            "src": "/images/characters/bayek/plates/bio-1440.08bf9c6d.webp",
+            "w": 1440,
+            "h": 666
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/bayek/plates/gal-1-1440.f2caa742.webp",
+          "w": 1440,
+          "h": 666,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/gal-1-520.a276a9d1.webp",
+              "w": 520,
+              "h": 240
+            },
+            {
+              "src": "/images/characters/bayek/plates/gal-1-900.39b72a17.webp",
+              "w": 900,
+              "h": 416
+            },
+            {
+              "src": "/images/characters/bayek/plates/gal-1-1440.f2caa742.webp",
+              "w": 1440,
+              "h": 666
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/bayek/plates/gal-2-1440.d6e6230f.webp",
+          "w": 1440,
+          "h": 666,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/gal-2-520.6a02e2f7.webp",
+              "w": 520,
+              "h": 240
+            },
+            {
+              "src": "/images/characters/bayek/plates/gal-2-900.3877ee74.webp",
+              "w": 900,
+              "h": 416
+            },
+            {
+              "src": "/images/characters/bayek/plates/gal-2-1440.d6e6230f.webp",
+              "w": 1440,
+              "h": 666
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/bayek/plates/gal-3-1440.7ba9bec4.webp",
+          "w": 1440,
+          "h": 840,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/gal-3-520.74517221.webp",
+              "w": 520,
+              "h": 303
+            },
+            {
+              "src": "/images/characters/bayek/plates/gal-3-900.40706673.webp",
+              "w": 900,
+              "h": 525
+            },
+            {
+              "src": "/images/characters/bayek/plates/gal-3-1440.7ba9bec4.webp",
+              "w": 1440,
+              "h": 840
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/bayek/plates/gal-4-1440.b545ecc6.webp",
+          "w": 1440,
+          "h": 736,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/gal-4-520.c81807e1.webp",
+              "w": 520,
+              "h": 266
+            },
+            {
+              "src": "/images/characters/bayek/plates/gal-4-900.f5954825.webp",
+              "w": 900,
+              "h": 460
+            },
+            {
+              "src": "/images/characters/bayek/plates/gal-4-1440.b545ecc6.webp",
+              "w": 1440,
+              "h": 736
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/bayek/plates/gal-5-1440.65411a36.webp",
+          "w": 1440,
+          "h": 668,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/gal-5-520.3c223906.webp",
+              "w": 520,
+              "h": 241
+            },
+            {
+              "src": "/images/characters/bayek/plates/gal-5-900.f5f725ea.webp",
+              "w": 900,
+              "h": 418
+            },
+            {
+              "src": "/images/characters/bayek/plates/gal-5-1440.65411a36.webp",
+              "w": 1440,
+              "h": 668
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/bayek/plates/mom-1-560.d6da078d.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/mom-1-320.4c0de0ea.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/bayek/plates/mom-1-560.d6da078d.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/bayek/plates/mom-2-560.539e3f61.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/mom-2-320.f839b948.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/bayek/plates/mom-2-560.539e3f61.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/bayek/plates/mom-3-560.957fdb08.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/mom-3-320.0a9a239b.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/bayek/plates/mom-3-560.957fdb08.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/bayek/plates/mom-4-560.54388379.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/mom-4-320.e5fdec95.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/bayek/plates/mom-4-560.54388379.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/bayek/plates/mom-5-560.60f8cd78.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/mom-5-320.f4a2a055.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/bayek/plates/mom-5-560.60f8cd78.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/bayek/plates/mom-6-560.42fd3ced.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/mom-6-320.cc5af401.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/bayek/plates/mom-6-560.42fd3ced.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/bayek/plates/mom-7-560.875fca88.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/mom-7-320.09386745.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/bayek/plates/mom-7-560.875fca88.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/bayek/plates/mom-8-560.0972944a.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/bayek/plates/mom-8-320.7504bf79.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/bayek/plates/mom-8-560.0972944a.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "kassandra": {
+      "render": {
+        "src": "/images/characters/kassandra/render-2030.bb8fd508.webp",
+        "w": 2030,
+        "h": 3000,
+        "sources": [
+          {
+            "src": "/images/characters/kassandra/render-360.1b5f0404.webp",
+            "w": 360,
+            "h": 532
+          },
+          {
+            "src": "/images/characters/kassandra/render-560.d812d1fb.webp",
+            "w": 560,
+            "h": 828
+          },
+          {
+            "src": "/images/characters/kassandra/render-720.8842288a.webp",
+            "w": 720,
+            "h": 1064
+          },
+          {
+            "src": "/images/characters/kassandra/render-900.5c84f5e1.webp",
+            "w": 900,
+            "h": 1330
+          },
+          {
+            "src": "/images/characters/kassandra/render-1400.55603979.webp",
+            "w": 1400,
+            "h": 2069
+          },
+          {
+            "src": "/images/characters/kassandra/render-2030.bb8fd508.webp",
+            "w": 2030,
+            "h": 3000
+          }
+        ],
+        "headX": 0.491
+      },
+      "scene": "aegean",
+      "portrait": "/images/characters/kassandra/portrait.b19b95de.webp",
+      "card": "/images/characters/kassandra/card.952aa9b5.webp",
+      "bio": {
+        "src": "/images/characters/kassandra/plates/bio-1440.78f5cd59.webp",
+        "w": 1440,
+        "h": 814,
+        "sources": [
+          {
+            "src": "/images/characters/kassandra/plates/bio-720.3899f59f.webp",
+            "w": 720,
+            "h": 407
+          },
+          {
+            "src": "/images/characters/kassandra/plates/bio-1100.6ee50fea.webp",
+            "w": 1100,
+            "h": 622
+          },
+          {
+            "src": "/images/characters/kassandra/plates/bio-1440.78f5cd59.webp",
+            "w": 1440,
+            "h": 814
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/kassandra/plates/gal-1-1440.5d67ff03.webp",
+          "w": 1440,
+          "h": 919,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/gal-1-520.70df5c1e.webp",
+              "w": 520,
+              "h": 332
+            },
+            {
+              "src": "/images/characters/kassandra/plates/gal-1-900.c483281e.webp",
+              "w": 900,
+              "h": 574
+            },
+            {
+              "src": "/images/characters/kassandra/plates/gal-1-1440.5d67ff03.webp",
+              "w": 1440,
+              "h": 919
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/kassandra/plates/gal-2-1440.11a6e781.webp",
+          "w": 1440,
+          "h": 1093,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/gal-2-520.fb21b364.webp",
+              "w": 520,
+              "h": 395
+            },
+            {
+              "src": "/images/characters/kassandra/plates/gal-2-900.3132f823.webp",
+              "w": 900,
+              "h": 683
+            },
+            {
+              "src": "/images/characters/kassandra/plates/gal-2-1440.11a6e781.webp",
+              "w": 1440,
+              "h": 1093
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/kassandra/plates/gal-3-1440.01fa1647.webp",
+          "w": 1440,
+          "h": 815,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/gal-3-520.fb66203d.webp",
+              "w": 520,
+              "h": 294
+            },
+            {
+              "src": "/images/characters/kassandra/plates/gal-3-900.203c3667.webp",
+              "w": 900,
+              "h": 509
+            },
+            {
+              "src": "/images/characters/kassandra/plates/gal-3-1440.01fa1647.webp",
+              "w": 1440,
+              "h": 815
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/kassandra/plates/gal-4-1440.e399327e.webp",
+          "w": 1440,
+          "h": 761,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/gal-4-520.e3310f45.webp",
+              "w": 520,
+              "h": 275
+            },
+            {
+              "src": "/images/characters/kassandra/plates/gal-4-900.bbc6f711.webp",
+              "w": 900,
+              "h": 476
+            },
+            {
+              "src": "/images/characters/kassandra/plates/gal-4-1440.e399327e.webp",
+              "w": 1440,
+              "h": 761
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/kassandra/plates/gal-5-1440.f1dafa42.webp",
+          "w": 1440,
+          "h": 715,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/gal-5-520.180a5dbf.webp",
+              "w": 520,
+              "h": 258
+            },
+            {
+              "src": "/images/characters/kassandra/plates/gal-5-900.9d29549f.webp",
+              "w": 900,
+              "h": 447
+            },
+            {
+              "src": "/images/characters/kassandra/plates/gal-5-1440.f1dafa42.webp",
+              "w": 1440,
+              "h": 715
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/kassandra/plates/mom-1-560.5ff40564.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/mom-1-320.f49df026.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/kassandra/plates/mom-1-560.5ff40564.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/kassandra/plates/mom-2-560.32376d20.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/mom-2-320.96fa17dd.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/kassandra/plates/mom-2-560.32376d20.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/kassandra/plates/mom-3-560.01406527.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/mom-3-320.73955657.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/kassandra/plates/mom-3-560.01406527.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/kassandra/plates/mom-4-560.7b956e3f.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/mom-4-320.53df567c.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/kassandra/plates/mom-4-560.7b956e3f.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/kassandra/plates/mom-5-560.9c60298c.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/mom-5-320.2f29bc5d.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/kassandra/plates/mom-5-560.9c60298c.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/kassandra/plates/mom-6-560.cf689e50.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/mom-6-320.eb15123f.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/kassandra/plates/mom-6-560.cf689e50.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/kassandra/plates/mom-7-560.2323a7ad.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/mom-7-320.173ae1fa.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/kassandra/plates/mom-7-560.2323a7ad.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/kassandra/plates/mom-8-560.4d47e318.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/kassandra/plates/mom-8-320.848c2ce3.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/kassandra/plates/mom-8-560.4d47e318.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "alexios": {
+      "render": {
+        "src": "/images/characters/alexios/render-717.5d4a188b.webp",
+        "w": 717,
+        "h": 1700,
+        "sources": [
+          {
+            "src": "/images/characters/alexios/render-360.f4e1d7ae.webp",
+            "w": 360,
+            "h": 854
+          },
+          {
+            "src": "/images/characters/alexios/render-560.a0de5a47.webp",
+            "w": 560,
+            "h": 1328
+          },
+          {
+            "src": "/images/characters/alexios/render-717.5d4a188b.webp",
+            "w": 717,
+            "h": 1700
+          }
+        ],
+        "headX": 0.399
+      },
+      "scene": "greece",
+      "portrait": "/images/characters/alexios/portrait.40f035e1.webp",
+      "card": "/images/characters/alexios/card.a7053916.webp",
+      "bio": {
+        "src": "/images/characters/alexios/plates/bio-1440.f38a05cf.webp",
+        "w": 1440,
+        "h": 754,
+        "sources": [
+          {
+            "src": "/images/characters/alexios/plates/bio-720.6652a135.webp",
+            "w": 720,
+            "h": 377
+          },
+          {
+            "src": "/images/characters/alexios/plates/bio-1100.9c7fe60d.webp",
+            "w": 1100,
+            "h": 576
+          },
+          {
+            "src": "/images/characters/alexios/plates/bio-1440.f38a05cf.webp",
+            "w": 1440,
+            "h": 754
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/alexios/plates/gal-1-1440.2e7e0515.webp",
+          "w": 1440,
+          "h": 769,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/gal-1-520.0e3beb4b.webp",
+              "w": 520,
+              "h": 278
+            },
+            {
+              "src": "/images/characters/alexios/plates/gal-1-900.500001ee.webp",
+              "w": 900,
+              "h": 481
+            },
+            {
+              "src": "/images/characters/alexios/plates/gal-1-1440.2e7e0515.webp",
+              "w": 1440,
+              "h": 769
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/alexios/plates/gal-2-1440.28ed73f7.webp",
+          "w": 1440,
+          "h": 1072,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/gal-2-520.805bd78c.webp",
+              "w": 520,
+              "h": 387
+            },
+            {
+              "src": "/images/characters/alexios/plates/gal-2-900.63bba003.webp",
+              "w": 900,
+              "h": 670
+            },
+            {
+              "src": "/images/characters/alexios/plates/gal-2-1440.28ed73f7.webp",
+              "w": 1440,
+              "h": 1072
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/alexios/plates/gal-3-1440.612f224c.webp",
+          "w": 1440,
+          "h": 1440,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/gal-3-520.02ca6e28.webp",
+              "w": 520,
+              "h": 520
+            },
+            {
+              "src": "/images/characters/alexios/plates/gal-3-900.7b6e85de.webp",
+              "w": 900,
+              "h": 900
+            },
+            {
+              "src": "/images/characters/alexios/plates/gal-3-1440.612f224c.webp",
+              "w": 1440,
+              "h": 1440
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/alexios/plates/gal-4-1440.f77e0d2f.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/gal-4-520.d950dbb0.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/alexios/plates/gal-4-900.52c8332d.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/alexios/plates/gal-4-1440.f77e0d2f.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/alexios/plates/gal-5-1440.d84055d1.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/gal-5-520.fe6f113a.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/alexios/plates/gal-5-900.807683cf.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/alexios/plates/gal-5-1440.d84055d1.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/alexios/plates/mom-1-560.ee212e71.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/mom-1-320.95c64846.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/alexios/plates/mom-1-560.ee212e71.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/alexios/plates/mom-2-560.0ac2f2df.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/mom-2-320.dd939585.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/alexios/plates/mom-2-560.0ac2f2df.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/alexios/plates/mom-3-560.62670d68.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/mom-3-320.88ad760e.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/alexios/plates/mom-3-560.62670d68.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/alexios/plates/mom-4-560.d5be60c2.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/mom-4-320.33a50aed.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/alexios/plates/mom-4-560.d5be60c2.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/alexios/plates/mom-5-560.e0014e66.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/mom-5-320.3049252b.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/alexios/plates/mom-5-560.e0014e66.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/alexios/plates/mom-6-560.d434b787.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/mom-6-320.37356c6c.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/alexios/plates/mom-6-560.d434b787.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/alexios/plates/mom-7-560.1f83a24b.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/mom-7-320.68714f51.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/alexios/plates/mom-7-560.1f83a24b.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/alexios/plates/mom-8-560.a1791344.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/alexios/plates/mom-8-320.e56278d6.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/alexios/plates/mom-8-560.a1791344.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "eivor": {
+      "render": {
+        "src": "/images/characters/eivor/render-582.ffb63f37.webp",
+        "w": 582,
+        "h": 1574,
+        "sources": [
+          {
+            "src": "/images/characters/eivor/render-360.37bbcf93.webp",
+            "w": 360,
+            "h": 974
+          },
+          {
+            "src": "/images/characters/eivor/render-560.41f74cfb.webp",
+            "w": 560,
+            "h": 1515
+          },
+          {
+            "src": "/images/characters/eivor/render-582.ffb63f37.webp",
+            "w": 582,
+            "h": 1574
+          }
+        ],
+        "headX": 0.54
+      },
+      "scene": "norway",
+      "portrait": "/images/characters/eivor/portrait.e603205e.webp",
+      "card": "/images/characters/eivor/card.61ebfa22.webp",
+      "bio": {
+        "src": "/images/characters/eivor/plates/bio-1440.dea82710.webp",
+        "w": 1440,
+        "h": 810,
+        "sources": [
+          {
+            "src": "/images/characters/eivor/plates/bio-720.5eaf2de2.webp",
+            "w": 720,
+            "h": 405
+          },
+          {
+            "src": "/images/characters/eivor/plates/bio-1100.9248955f.webp",
+            "w": 1100,
+            "h": 619
+          },
+          {
+            "src": "/images/characters/eivor/plates/bio-1440.dea82710.webp",
+            "w": 1440,
+            "h": 810
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/eivor/plates/gal-1-1440.b70d5e53.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/gal-1-520.b6aa775c.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/eivor/plates/gal-1-900.26e883c1.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/eivor/plates/gal-1-1440.b70d5e53.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/eivor/plates/gal-2-1440.3ae7fc76.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/gal-2-520.f5ecd11c.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/eivor/plates/gal-2-900.6c026d0c.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/eivor/plates/gal-2-1440.3ae7fc76.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/eivor/plates/gal-3-1340.64c650d4.webp",
+          "w": 1340,
+          "h": 630,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/gal-3-520.8b146e75.webp",
+              "w": 520,
+              "h": 244
+            },
+            {
+              "src": "/images/characters/eivor/plates/gal-3-900.7f3424fe.webp",
+              "w": 900,
+              "h": 423
+            },
+            {
+              "src": "/images/characters/eivor/plates/gal-3-1340.64c650d4.webp",
+              "w": 1340,
+              "h": 630
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/eivor/plates/gal-4-1340.46021e3b.webp",
+          "w": 1340,
+          "h": 630,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/gal-4-520.7e3c607c.webp",
+              "w": 520,
+              "h": 244
+            },
+            {
+              "src": "/images/characters/eivor/plates/gal-4-900.2f505752.webp",
+              "w": 900,
+              "h": 423
+            },
+            {
+              "src": "/images/characters/eivor/plates/gal-4-1340.46021e3b.webp",
+              "w": 1340,
+              "h": 630
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/eivor/plates/gal-5-1340.9851e181.webp",
+          "w": 1340,
+          "h": 630,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/gal-5-520.30e37048.webp",
+              "w": 520,
+              "h": 244
+            },
+            {
+              "src": "/images/characters/eivor/plates/gal-5-900.541887ea.webp",
+              "w": 900,
+              "h": 423
+            },
+            {
+              "src": "/images/characters/eivor/plates/gal-5-1340.9851e181.webp",
+              "w": 1340,
+              "h": 630
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/eivor/plates/mom-1-560.a6a5facd.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/mom-1-320.e17bc3eb.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/eivor/plates/mom-1-560.a6a5facd.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/eivor/plates/mom-2-560.1c066b40.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/mom-2-320.6dc6ef8c.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/eivor/plates/mom-2-560.1c066b40.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/eivor/plates/mom-3-560.99cb71ae.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/mom-3-320.ff7939ce.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/eivor/plates/mom-3-560.99cb71ae.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/eivor/plates/mom-4-560.9473397c.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/mom-4-320.fa769c01.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/eivor/plates/mom-4-560.9473397c.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/eivor/plates/mom-5-560.01172307.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/mom-5-320.5b729782.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/eivor/plates/mom-5-560.01172307.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/eivor/plates/mom-6-560.c0c1e373.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/mom-6-320.0553b343.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/eivor/plates/mom-6-560.c0c1e373.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/eivor/plates/mom-7-560.e8f76078.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/mom-7-320.470cdd18.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/eivor/plates/mom-7-560.e8f76078.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/eivor/plates/mom-8-560.dab6d104.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/eivor/plates/mom-8-320.2cb4e109.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/eivor/plates/mom-8-560.dab6d104.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "basim": {
+      "render": {
+        "src": "/images/characters/basim/render-589.b98932e3.webp",
+        "w": 589,
+        "h": 1650,
+        "sources": [
+          {
+            "src": "/images/characters/basim/render-360.a76d57b4.webp",
+            "w": 360,
+            "h": 1008
+          },
+          {
+            "src": "/images/characters/basim/render-560.ffd42ef3.webp",
+            "w": 560,
+            "h": 1569
+          },
+          {
+            "src": "/images/characters/basim/render-589.b98932e3.webp",
+            "w": 589,
+            "h": 1650
+          }
+        ],
+        "headX": 0.52
+      },
+      "scene": "baghdad",
+      "portrait": "/images/characters/basim/portrait.1a9cde70.webp",
+      "card": "/images/characters/basim/card.88bde5bd.webp",
+      "bio": {
+        "src": "/images/characters/basim/plates/bio-1440.61a261c1.webp",
+        "w": 1440,
+        "h": 810,
+        "sources": [
+          {
+            "src": "/images/characters/basim/plates/bio-720.bc2e800a.webp",
+            "w": 720,
+            "h": 405
+          },
+          {
+            "src": "/images/characters/basim/plates/bio-1100.25a96ac7.webp",
+            "w": 1100,
+            "h": 619
+          },
+          {
+            "src": "/images/characters/basim/plates/bio-1440.61a261c1.webp",
+            "w": 1440,
+            "h": 810
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/basim/plates/gal-1-1440.6795c6e5.webp",
+          "w": 1440,
+          "h": 960,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/gal-1-520.f1278729.webp",
+              "w": 520,
+              "h": 347
+            },
+            {
+              "src": "/images/characters/basim/plates/gal-1-900.8544d6ab.webp",
+              "w": 900,
+              "h": 600
+            },
+            {
+              "src": "/images/characters/basim/plates/gal-1-1440.6795c6e5.webp",
+              "w": 1440,
+              "h": 960
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/basim/plates/gal-2-1440.11de5e85.webp",
+          "w": 1440,
+          "h": 620,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/gal-2-520.63e12648.webp",
+              "w": 520,
+              "h": 224
+            },
+            {
+              "src": "/images/characters/basim/plates/gal-2-900.f5a7475d.webp",
+              "w": 900,
+              "h": 388
+            },
+            {
+              "src": "/images/characters/basim/plates/gal-2-1440.11de5e85.webp",
+              "w": 1440,
+              "h": 620
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/basim/plates/gal-3-1440.a53d7969.webp",
+          "w": 1440,
+          "h": 648,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/gal-3-520.37978a38.webp",
+              "w": 520,
+              "h": 234
+            },
+            {
+              "src": "/images/characters/basim/plates/gal-3-900.1009c333.webp",
+              "w": 900,
+              "h": 405
+            },
+            {
+              "src": "/images/characters/basim/plates/gal-3-1440.a53d7969.webp",
+              "w": 1440,
+              "h": 648
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/basim/plates/gal-4-1440.365ac4ae.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/gal-4-520.21a1e7c9.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/basim/plates/gal-4-900.f33b80c9.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/basim/plates/gal-4-1440.365ac4ae.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/basim/plates/gal-5-1440.d6fd8db7.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/gal-5-520.1be4b16a.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/basim/plates/gal-5-900.b2c921e6.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/basim/plates/gal-5-1440.d6fd8db7.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/basim/plates/mom-1-560.439c724c.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/mom-1-320.81acf3cc.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/basim/plates/mom-1-560.439c724c.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/basim/plates/mom-2-560.20a860e6.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/mom-2-320.d7c45f78.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/basim/plates/mom-2-560.20a860e6.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/basim/plates/mom-3-560.8956eb1a.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/mom-3-320.5cf435ef.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/basim/plates/mom-3-560.8956eb1a.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/basim/plates/mom-4-560.f6f539e6.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/mom-4-320.0a5a228d.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/basim/plates/mom-4-560.f6f539e6.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/basim/plates/mom-5-560.1aec3bbf.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/mom-5-320.69fca4d9.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/basim/plates/mom-5-560.1aec3bbf.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/basim/plates/mom-6-560.553e1897.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/mom-6-320.f3bf6012.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/basim/plates/mom-6-560.553e1897.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/basim/plates/mom-7-560.31f30658.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/mom-7-320.d592eb96.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/basim/plates/mom-7-560.31f30658.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/basim/plates/mom-8-560.0fd62b99.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/basim/plates/mom-8-320.f6bf1d83.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/basim/plates/mom-8-560.0fd62b99.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "naoe": {
+      "render": {
+        "src": "/images/characters/naoe/render-1648.0ef1b6c3.webp",
+        "w": 1648,
+        "h": 3000,
+        "sources": [
+          {
+            "src": "/images/characters/naoe/render-360.af11b9e1.webp",
+            "w": 360,
+            "h": 655
+          },
+          {
+            "src": "/images/characters/naoe/render-560.138255dc.webp",
+            "w": 560,
+            "h": 1019
+          },
+          {
+            "src": "/images/characters/naoe/render-720.baf62e79.webp",
+            "w": 720,
+            "h": 1311
+          },
+          {
+            "src": "/images/characters/naoe/render-900.65099c00.webp",
+            "w": 900,
+            "h": 1638
+          },
+          {
+            "src": "/images/characters/naoe/render-1400.48c58e18.webp",
+            "w": 1400,
+            "h": 2549
+          },
+          {
+            "src": "/images/characters/naoe/render-1648.0ef1b6c3.webp",
+            "w": 1648,
+            "h": 3000
+          }
+        ],
+        "headX": 0.722
+      },
+      "scene": "iga",
+      "portrait": "/images/characters/naoe/portrait.4d80029b.webp",
+      "card": "/images/characters/naoe/card.d4a434dd.webp",
+      "bio": {
+        "src": "/images/characters/naoe/plates/bio-1440.4798851f.webp",
+        "w": 1440,
+        "h": 731,
+        "sources": [
+          {
+            "src": "/images/characters/naoe/plates/bio-720.0403ec5a.webp",
+            "w": 720,
+            "h": 366
+          },
+          {
+            "src": "/images/characters/naoe/plates/bio-1100.019a0504.webp",
+            "w": 1100,
+            "h": 558
+          },
+          {
+            "src": "/images/characters/naoe/plates/bio-1440.4798851f.webp",
+            "w": 1440,
+            "h": 731
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/naoe/plates/gal-1-1440.3138cb65.webp",
+          "w": 1440,
+          "h": 824,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/gal-1-520.45d8022e.webp",
+              "w": 520,
+              "h": 298
+            },
+            {
+              "src": "/images/characters/naoe/plates/gal-1-900.835dee31.webp",
+              "w": 900,
+              "h": 515
+            },
+            {
+              "src": "/images/characters/naoe/plates/gal-1-1440.3138cb65.webp",
+              "w": 1440,
+              "h": 824
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/naoe/plates/gal-2-1440.39b3e609.webp",
+          "w": 1440,
+          "h": 824,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/gal-2-520.363f5c71.webp",
+              "w": 520,
+              "h": 298
+            },
+            {
+              "src": "/images/characters/naoe/plates/gal-2-900.a874452c.webp",
+              "w": 900,
+              "h": 515
+            },
+            {
+              "src": "/images/characters/naoe/plates/gal-2-1440.39b3e609.webp",
+              "w": 1440,
+              "h": 824
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/naoe/plates/gal-3-1440.e8028623.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/gal-3-520.d73cfd70.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/naoe/plates/gal-3-900.769ca894.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/naoe/plates/gal-3-1440.e8028623.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/naoe/plates/gal-4-1440.888cd4ab.webp",
+          "w": 1440,
+          "h": 824,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/gal-4-520.a9f56bba.webp",
+              "w": 520,
+              "h": 298
+            },
+            {
+              "src": "/images/characters/naoe/plates/gal-4-900.0f15f512.webp",
+              "w": 900,
+              "h": 515
+            },
+            {
+              "src": "/images/characters/naoe/plates/gal-4-1440.888cd4ab.webp",
+              "w": 1440,
+              "h": 824
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/naoe/plates/gal-5-1440.f20d9f8b.webp",
+          "w": 1440,
+          "h": 824,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/gal-5-520.db032425.webp",
+              "w": 520,
+              "h": 298
+            },
+            {
+              "src": "/images/characters/naoe/plates/gal-5-900.8e9dea4a.webp",
+              "w": 900,
+              "h": 515
+            },
+            {
+              "src": "/images/characters/naoe/plates/gal-5-1440.f20d9f8b.webp",
+              "w": 1440,
+              "h": 824
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/naoe/plates/mom-1-560.0a370688.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/mom-1-320.2d9c4afe.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/naoe/plates/mom-1-560.0a370688.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/naoe/plates/mom-2-560.56e2604a.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/mom-2-320.de08bca0.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/naoe/plates/mom-2-560.56e2604a.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/naoe/plates/mom-3-560.ca676bfe.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/mom-3-320.c49c629f.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/naoe/plates/mom-3-560.ca676bfe.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/naoe/plates/mom-4-560.fc7af82e.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/mom-4-320.1e1d9435.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/naoe/plates/mom-4-560.fc7af82e.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/naoe/plates/mom-5-560.475b9967.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/mom-5-320.4598820c.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/naoe/plates/mom-5-560.475b9967.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/naoe/plates/mom-6-560.f3199192.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/mom-6-320.7a06ec0d.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/naoe/plates/mom-6-560.f3199192.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/naoe/plates/mom-7-560.50ff1b0a.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/mom-7-320.947a7a87.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/naoe/plates/mom-7-560.50ff1b0a.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/naoe/plates/mom-8-560.dabbfa7d.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/naoe/plates/mom-8-320.d4954b01.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/naoe/plates/mom-8-560.dabbfa7d.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "yasuke": {
+      "render": {
+        "src": "/images/characters/yasuke/render-1397.e5983037.webp",
+        "w": 1397,
+        "h": 3000,
+        "sources": [
+          {
+            "src": "/images/characters/yasuke/render-360.96b59720.webp",
+            "w": 360,
+            "h": 773
+          },
+          {
+            "src": "/images/characters/yasuke/render-560.fb567ebd.webp",
+            "w": 560,
+            "h": 1203
+          },
+          {
+            "src": "/images/characters/yasuke/render-720.4b8c7f64.webp",
+            "w": 720,
+            "h": 1546
+          },
+          {
+            "src": "/images/characters/yasuke/render-900.74422077.webp",
+            "w": 900,
+            "h": 1933
+          },
+          {
+            "src": "/images/characters/yasuke/render-1397.e5983037.webp",
+            "w": 1397,
+            "h": 3000
+          }
+        ],
+        "headX": 0.479
+      },
+      "scene": "kyoto",
+      "portrait": "/images/characters/yasuke/portrait.3ab46520.webp",
+      "card": "/images/characters/yasuke/card.cde73a68.webp",
+      "bio": {
+        "src": "/images/characters/yasuke/plates/bio-1440.0eeffb0d.webp",
+        "w": 1440,
+        "h": 1169,
+        "sources": [
+          {
+            "src": "/images/characters/yasuke/plates/bio-720.9eab3849.webp",
+            "w": 720,
+            "h": 584
+          },
+          {
+            "src": "/images/characters/yasuke/plates/bio-1100.166c32f7.webp",
+            "w": 1100,
+            "h": 893
+          },
+          {
+            "src": "/images/characters/yasuke/plates/bio-1440.0eeffb0d.webp",
+            "w": 1440,
+            "h": 1169
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/yasuke/plates/gal-1-1440.d3430c05.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/gal-1-520.fc593682.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/yasuke/plates/gal-1-900.6c978921.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/yasuke/plates/gal-1-1440.d3430c05.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/yasuke/plates/gal-2-1440.aee5db6e.webp",
+          "w": 1440,
+          "h": 804,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/gal-2-520.097b4d51.webp",
+              "w": 520,
+              "h": 290
+            },
+            {
+              "src": "/images/characters/yasuke/plates/gal-2-900.f7389e87.webp",
+              "w": 900,
+              "h": 502
+            },
+            {
+              "src": "/images/characters/yasuke/plates/gal-2-1440.aee5db6e.webp",
+              "w": 1440,
+              "h": 804
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/yasuke/plates/gal-3-1440.a3a5da78.webp",
+          "w": 1440,
+          "h": 811,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/gal-3-520.909de528.webp",
+              "w": 520,
+              "h": 293
+            },
+            {
+              "src": "/images/characters/yasuke/plates/gal-3-900.e1214fb3.webp",
+              "w": 900,
+              "h": 507
+            },
+            {
+              "src": "/images/characters/yasuke/plates/gal-3-1440.a3a5da78.webp",
+              "w": 1440,
+              "h": 811
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/yasuke/plates/gal-4-1200.88bb8396.webp",
+          "w": 1200,
+          "h": 675,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/gal-4-520.b2bd9192.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/yasuke/plates/gal-4-900.b9ee79f2.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/yasuke/plates/gal-4-1200.88bb8396.webp",
+              "w": 1200,
+              "h": 675
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/yasuke/plates/gal-5-1440.e5940283.webp",
+          "w": 1440,
+          "h": 607,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/gal-5-520.0fd0e905.webp",
+              "w": 520,
+              "h": 219
+            },
+            {
+              "src": "/images/characters/yasuke/plates/gal-5-900.f594cde9.webp",
+              "w": 900,
+              "h": 379
+            },
+            {
+              "src": "/images/characters/yasuke/plates/gal-5-1440.e5940283.webp",
+              "w": 1440,
+              "h": 607
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/yasuke/plates/mom-1-560.39a5b2e0.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/mom-1-320.ca4d2310.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/yasuke/plates/mom-1-560.39a5b2e0.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/yasuke/plates/mom-2-560.94938b53.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/mom-2-320.0a613ced.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/yasuke/plates/mom-2-560.94938b53.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/yasuke/plates/mom-3-560.0cf7552c.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/mom-3-320.42384775.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/yasuke/plates/mom-3-560.0cf7552c.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/yasuke/plates/mom-4-560.9a9db050.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/mom-4-320.bcde44a1.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/yasuke/plates/mom-4-560.9a9db050.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/yasuke/plates/mom-5-560.051fc4d2.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/mom-5-320.72913b51.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/yasuke/plates/mom-5-560.051fc4d2.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/yasuke/plates/mom-6-560.87cb1eab.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/mom-6-320.b642988e.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/yasuke/plates/mom-6-560.87cb1eab.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/yasuke/plates/mom-7-560.12d0475d.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/mom-7-320.f1ec7421.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/yasuke/plates/mom-7-560.12d0475d.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/yasuke/plates/mom-8-560.e7d00f2a.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/yasuke/plates/mom-8-320.fbd32f24.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/yasuke/plates/mom-8-560.e7d00f2a.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "haytham": {
+      "render": {
+        "src": "/images/characters/haytham/render-1026.644f99c9.webp",
+        "w": 1026,
+        "h": 1448,
+        "sources": [
+          {
+            "src": "/images/characters/haytham/render-360.f1962437.webp",
+            "w": 360,
+            "h": 508
+          },
+          {
+            "src": "/images/characters/haytham/render-560.40fe5395.webp",
+            "w": 560,
+            "h": 790
+          },
+          {
+            "src": "/images/characters/haytham/render-720.ddf59314.webp",
+            "w": 720,
+            "h": 1016
+          },
+          {
+            "src": "/images/characters/haytham/render-900.32d254b5.webp",
+            "w": 900,
+            "h": 1270
+          },
+          {
+            "src": "/images/characters/haytham/render-1026.644f99c9.webp",
+            "w": 1026,
+            "h": 1448
+          }
+        ],
+        "headX": 0.517
+      },
+      "scene": "new-york",
+      "portrait": "/images/characters/haytham/portrait.8d44a8e5.webp",
+      "card": "/images/characters/haytham/card.2bf80e38.webp",
+      "bio": {
+        "src": "/images/characters/haytham/plates/bio-1024.403b9678.webp",
+        "w": 1024,
+        "h": 589,
+        "sources": [
+          {
+            "src": "/images/characters/haytham/plates/bio-720.ec78916f.webp",
+            "w": 720,
+            "h": 414
+          },
+          {
+            "src": "/images/characters/haytham/plates/bio-1024.403b9678.webp",
+            "w": 1024,
+            "h": 589
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/haytham/plates/gal-1-1440.d38df4e0.webp",
+          "w": 1440,
+          "h": 794,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/gal-1-520.4812ed3f.webp",
+              "w": 520,
+              "h": 287
+            },
+            {
+              "src": "/images/characters/haytham/plates/gal-1-900.5cc9dca9.webp",
+              "w": 900,
+              "h": 496
+            },
+            {
+              "src": "/images/characters/haytham/plates/gal-1-1440.d38df4e0.webp",
+              "w": 1440,
+              "h": 794
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/haytham/plates/gal-2-1440.70ddb306.webp",
+          "w": 1440,
+          "h": 788,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/gal-2-520.7b3fb318.webp",
+              "w": 520,
+              "h": 285
+            },
+            {
+              "src": "/images/characters/haytham/plates/gal-2-900.355e9007.webp",
+              "w": 900,
+              "h": 492
+            },
+            {
+              "src": "/images/characters/haytham/plates/gal-2-1440.70ddb306.webp",
+              "w": 1440,
+              "h": 788
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/haytham/plates/gal-3-1440.2cd2e529.webp",
+          "w": 1440,
+          "h": 710,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/gal-3-520.fa808447.webp",
+              "w": 520,
+              "h": 256
+            },
+            {
+              "src": "/images/characters/haytham/plates/gal-3-900.fda21af9.webp",
+              "w": 900,
+              "h": 444
+            },
+            {
+              "src": "/images/characters/haytham/plates/gal-3-1440.2cd2e529.webp",
+              "w": 1440,
+              "h": 710
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/haytham/plates/gal-4-1440.4b4ba12b.webp",
+          "w": 1440,
+          "h": 687,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/gal-4-520.84024e89.webp",
+              "w": 520,
+              "h": 248
+            },
+            {
+              "src": "/images/characters/haytham/plates/gal-4-900.cc3498b6.webp",
+              "w": 900,
+              "h": 429
+            },
+            {
+              "src": "/images/characters/haytham/plates/gal-4-1440.4b4ba12b.webp",
+              "w": 1440,
+              "h": 687
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/haytham/plates/gal-5-1440.62b001ad.webp",
+          "w": 1440,
+          "h": 900,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/gal-5-520.e9c3fe9b.webp",
+              "w": 520,
+              "h": 325
+            },
+            {
+              "src": "/images/characters/haytham/plates/gal-5-900.1572f9fa.webp",
+              "w": 900,
+              "h": 562
+            },
+            {
+              "src": "/images/characters/haytham/plates/gal-5-1440.62b001ad.webp",
+              "w": 1440,
+              "h": 900
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/haytham/plates/mom-1-560.301c2ac2.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/mom-1-320.ed21fa7a.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/haytham/plates/mom-1-560.301c2ac2.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/haytham/plates/mom-2-560.2bd6bf12.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/mom-2-320.58ae0dc4.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/haytham/plates/mom-2-560.2bd6bf12.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/haytham/plates/mom-3-560.df9a56c7.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/mom-3-320.b4f5b2f3.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/haytham/plates/mom-3-560.df9a56c7.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/haytham/plates/mom-4-560.db7687e4.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/mom-4-320.6f6e236e.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/haytham/plates/mom-4-560.db7687e4.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/haytham/plates/mom-5-560.98e85179.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/mom-5-320.a2f0db25.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/haytham/plates/mom-5-560.98e85179.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/haytham/plates/mom-6-560.c4f2b205.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/mom-6-320.52b78d63.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/haytham/plates/mom-6-560.c4f2b205.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/haytham/plates/mom-7-560.eca00b20.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/mom-7-320.6ebe3a0e.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/haytham/plates/mom-7-560.eca00b20.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/haytham/plates/mom-8-560.38bedf44.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/haytham/plates/mom-8-320.ba1444e1.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/haytham/plates/mom-8-560.38bedf44.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "shay": {
+      "render": {
+        "src": "/images/characters/shay/render-1663.f3d134d5.webp",
+        "w": 1663,
+        "h": 3000,
+        "sources": [
+          {
+            "src": "/images/characters/shay/render-360.d8495225.webp",
+            "w": 360,
+            "h": 649
+          },
+          {
+            "src": "/images/characters/shay/render-560.6ba54e42.webp",
+            "w": 560,
+            "h": 1010
+          },
+          {
+            "src": "/images/characters/shay/render-720.60281f9a.webp",
+            "w": 720,
+            "h": 1299
+          },
+          {
+            "src": "/images/characters/shay/render-900.e5728e94.webp",
+            "w": 900,
+            "h": 1624
+          },
+          {
+            "src": "/images/characters/shay/render-1400.5de7701b.webp",
+            "w": 1400,
+            "h": 2526
+          },
+          {
+            "src": "/images/characters/shay/render-1663.f3d134d5.webp",
+            "w": 1663,
+            "h": 3000
+          }
+        ],
+        "headX": 0.461
+      },
+      "scene": "north-atlantic",
+      "portrait": "/images/characters/shay/portrait.c3f7be12.webp",
+      "card": "/images/characters/shay/card.2c580a51.webp",
+      "bio": {
+        "src": "/images/characters/shay/plates/bio-1440.a2d766b4.webp",
+        "w": 1440,
+        "h": 689,
+        "sources": [
+          {
+            "src": "/images/characters/shay/plates/bio-720.797793bd.webp",
+            "w": 720,
+            "h": 344
+          },
+          {
+            "src": "/images/characters/shay/plates/bio-1100.03b1cc86.webp",
+            "w": 1100,
+            "h": 526
+          },
+          {
+            "src": "/images/characters/shay/plates/bio-1440.a2d766b4.webp",
+            "w": 1440,
+            "h": 689
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/shay/plates/gal-1-1440.ae61a9a7.webp",
+          "w": 1440,
+          "h": 1102,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/gal-1-520.789843a0.webp",
+              "w": 520,
+              "h": 398
+            },
+            {
+              "src": "/images/characters/shay/plates/gal-1-900.10b3ea8c.webp",
+              "w": 900,
+              "h": 689
+            },
+            {
+              "src": "/images/characters/shay/plates/gal-1-1440.ae61a9a7.webp",
+              "w": 1440,
+              "h": 1102
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/shay/plates/gal-2-1440.ff773d54.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/gal-2-520.74da2580.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/shay/plates/gal-2-900.128cffee.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/shay/plates/gal-2-1440.ff773d54.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/shay/plates/gal-3-1440.46b0998d.webp",
+          "w": 1440,
+          "h": 770,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/gal-3-520.f3cd6d59.webp",
+              "w": 520,
+              "h": 278
+            },
+            {
+              "src": "/images/characters/shay/plates/gal-3-900.47c43bd0.webp",
+              "w": 900,
+              "h": 481
+            },
+            {
+              "src": "/images/characters/shay/plates/gal-3-1440.46b0998d.webp",
+              "w": 1440,
+              "h": 770
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/shay/plates/gal-4-1440.d7895e93.webp",
+          "w": 1440,
+          "h": 748,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/gal-4-520.0badbc7d.webp",
+              "w": 520,
+              "h": 270
+            },
+            {
+              "src": "/images/characters/shay/plates/gal-4-900.9132b836.webp",
+              "w": 900,
+              "h": 468
+            },
+            {
+              "src": "/images/characters/shay/plates/gal-4-1440.d7895e93.webp",
+              "w": 1440,
+              "h": 748
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/shay/plates/gal-5-1440.4ef2a64b.webp",
+          "w": 1440,
+          "h": 787,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/gal-5-520.00b19fa5.webp",
+              "w": 520,
+              "h": 284
+            },
+            {
+              "src": "/images/characters/shay/plates/gal-5-900.2550db5c.webp",
+              "w": 900,
+              "h": 492
+            },
+            {
+              "src": "/images/characters/shay/plates/gal-5-1440.4ef2a64b.webp",
+              "w": 1440,
+              "h": 787
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/shay/plates/mom-1-560.a0bdb035.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/mom-1-320.7767dad6.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/shay/plates/mom-1-560.a0bdb035.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/shay/plates/mom-2-560.36cff991.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/mom-2-320.64b6b54a.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/shay/plates/mom-2-560.36cff991.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/shay/plates/mom-3-560.3c7ade4b.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/mom-3-320.126d8e82.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/shay/plates/mom-3-560.3c7ade4b.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/shay/plates/mom-4-560.e76c59e0.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/mom-4-320.4db9577e.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/shay/plates/mom-4-560.e76c59e0.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/shay/plates/mom-5-560.642ca893.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/mom-5-320.f1f28fa7.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/shay/plates/mom-5-560.642ca893.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/shay/plates/mom-6-560.5db6af7f.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/mom-6-320.65a7394d.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/shay/plates/mom-6-560.5db6af7f.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/shay/plates/mom-7-560.38405d50.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/mom-7-320.c6277f62.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/shay/plates/mom-7-560.38405d50.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/shay/plates/mom-8-560.339f234f.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/shay/plates/mom-8-320.1310cc0d.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/shay/plates/mom-8-560.339f234f.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "aveline": {
+      "render": {
+        "src": "/images/characters/aveline/render-757.ae35c7a0.webp",
+        "w": 757,
+        "h": 1176,
+        "sources": [
+          {
+            "src": "/images/characters/aveline/render-360.7b23e0ff.webp",
+            "w": 360,
+            "h": 559
+          },
+          {
+            "src": "/images/characters/aveline/render-560.5595ecf3.webp",
+            "w": 560,
+            "h": 870
+          },
+          {
+            "src": "/images/characters/aveline/render-720.0f843a39.webp",
+            "w": 720,
+            "h": 1119
+          },
+          {
+            "src": "/images/characters/aveline/render-757.ae35c7a0.webp",
+            "w": 757,
+            "h": 1176
+          }
+        ],
+        "headX": 0.386
+      },
+      "scene": "new-orleans",
+      "portrait": "/images/characters/aveline/portrait.50602e7d.webp",
+      "card": "/images/characters/aveline/card.12a41e97.webp",
+      "bio": {
+        "src": "/images/characters/aveline/plates/bio-1440.bbac2a9c.webp",
+        "w": 1440,
+        "h": 915,
+        "sources": [
+          {
+            "src": "/images/characters/aveline/plates/bio-720.a954e47a.webp",
+            "w": 720,
+            "h": 458
+          },
+          {
+            "src": "/images/characters/aveline/plates/bio-1100.920d5871.webp",
+            "w": 1100,
+            "h": 699
+          },
+          {
+            "src": "/images/characters/aveline/plates/bio-1440.bbac2a9c.webp",
+            "w": 1440,
+            "h": 915
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/aveline/plates/gal-1-1440.397536a7.webp",
+          "w": 1440,
+          "h": 823,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/gal-1-520.4dc4ca95.webp",
+              "w": 520,
+              "h": 297
+            },
+            {
+              "src": "/images/characters/aveline/plates/gal-1-900.5a13ad23.webp",
+              "w": 900,
+              "h": 514
+            },
+            {
+              "src": "/images/characters/aveline/plates/gal-1-1440.397536a7.webp",
+              "w": 1440,
+              "h": 823
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/aveline/plates/gal-2-1440.51f4f581.webp",
+          "w": 1440,
+          "h": 887,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/gal-2-520.377e3804.webp",
+              "w": 520,
+              "h": 320
+            },
+            {
+              "src": "/images/characters/aveline/plates/gal-2-900.45f4517a.webp",
+              "w": 900,
+              "h": 554
+            },
+            {
+              "src": "/images/characters/aveline/plates/gal-2-1440.51f4f581.webp",
+              "w": 1440,
+              "h": 887
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/aveline/plates/gal-3-1440.a6b58715.webp",
+          "w": 1440,
+          "h": 792,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/gal-3-520.dae17ae4.webp",
+              "w": 520,
+              "h": 286
+            },
+            {
+              "src": "/images/characters/aveline/plates/gal-3-900.f9f134d6.webp",
+              "w": 900,
+              "h": 495
+            },
+            {
+              "src": "/images/characters/aveline/plates/gal-3-1440.a6b58715.webp",
+              "w": 1440,
+              "h": 792
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/aveline/plates/gal-4-1440.8cb1723a.webp",
+          "w": 1440,
+          "h": 562,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/gal-4-520.32aa0729.webp",
+              "w": 520,
+              "h": 203
+            },
+            {
+              "src": "/images/characters/aveline/plates/gal-4-900.1c8fab0f.webp",
+              "w": 900,
+              "h": 351
+            },
+            {
+              "src": "/images/characters/aveline/plates/gal-4-1440.8cb1723a.webp",
+              "w": 1440,
+              "h": 562
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/aveline/plates/gal-5-1440.21196df7.webp",
+          "w": 1440,
+          "h": 717,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/gal-5-520.5b9baa4f.webp",
+              "w": 520,
+              "h": 259
+            },
+            {
+              "src": "/images/characters/aveline/plates/gal-5-900.f44871aa.webp",
+              "w": 900,
+              "h": 448
+            },
+            {
+              "src": "/images/characters/aveline/plates/gal-5-1440.21196df7.webp",
+              "w": 1440,
+              "h": 717
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/aveline/plates/mom-1-560.b6793c3d.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/mom-1-320.03311b30.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/aveline/plates/mom-1-560.b6793c3d.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/aveline/plates/mom-2-560.32a5540e.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/mom-2-320.8d359dd1.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/aveline/plates/mom-2-560.32a5540e.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/aveline/plates/mom-3-560.ea02cc2f.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/mom-3-320.806be100.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/aveline/plates/mom-3-560.ea02cc2f.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/aveline/plates/mom-4-560.20793ba5.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/mom-4-320.e80e9543.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/aveline/plates/mom-4-560.20793ba5.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/aveline/plates/mom-5-560.fec80222.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/mom-5-320.8724fec9.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/aveline/plates/mom-5-560.fec80222.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/aveline/plates/mom-6-560.9ff3d466.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/mom-6-320.6e91c0d6.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/aveline/plates/mom-6-560.9ff3d466.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/aveline/plates/mom-7-560.7e155214.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/mom-7-320.a16e39bf.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/aveline/plates/mom-7-560.7e155214.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/aveline/plates/mom-8-560.46673d2d.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/aveline/plates/mom-8-320.d8aa9469.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/aveline/plates/mom-8-560.46673d2d.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "adewale": {
+      "render": {
+        "src": "/images/characters/adewale/render-2450.b018e624.webp",
+        "w": 2450,
+        "h": 3000,
+        "sources": [
+          {
+            "src": "/images/characters/adewale/render-360.0e0ba9aa.webp",
+            "w": 360,
+            "h": 441
+          },
+          {
+            "src": "/images/characters/adewale/render-560.c9021483.webp",
+            "w": 560,
+            "h": 686
+          },
+          {
+            "src": "/images/characters/adewale/render-720.0921fe1f.webp",
+            "w": 720,
+            "h": 882
+          },
+          {
+            "src": "/images/characters/adewale/render-900.afb7a888.webp",
+            "w": 900,
+            "h": 1102
+          },
+          {
+            "src": "/images/characters/adewale/render-1400.761c933a.webp",
+            "w": 1400,
+            "h": 1714
+          },
+          {
+            "src": "/images/characters/adewale/render-2450.b018e624.webp",
+            "w": 2450,
+            "h": 3000
+          }
+        ],
+        "headX": 0.527
+      },
+      "scene": "havana",
+      "portrait": "/images/characters/adewale/portrait.f91efcee.webp",
+      "card": "/images/characters/adewale/card.f305e800.webp",
+      "bio": {
+        "src": "/images/characters/adewale/plates/bio-1440.ce7caee6.webp",
+        "w": 1440,
+        "h": 810,
+        "sources": [
+          {
+            "src": "/images/characters/adewale/plates/bio-720.f73b6588.webp",
+            "w": 720,
+            "h": 405
+          },
+          {
+            "src": "/images/characters/adewale/plates/bio-1100.54aa391e.webp",
+            "w": 1100,
+            "h": 619
+          },
+          {
+            "src": "/images/characters/adewale/plates/bio-1440.ce7caee6.webp",
+            "w": 1440,
+            "h": 810
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/adewale/plates/gal-1-1440.78286d5f.webp",
+          "w": 1440,
+          "h": 765,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/gal-1-520.6ea17308.webp",
+              "w": 520,
+              "h": 276
+            },
+            {
+              "src": "/images/characters/adewale/plates/gal-1-900.f1eacdcd.webp",
+              "w": 900,
+              "h": 478
+            },
+            {
+              "src": "/images/characters/adewale/plates/gal-1-1440.78286d5f.webp",
+              "w": 1440,
+              "h": 765
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/adewale/plates/gal-2-1440.4967697a.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/gal-2-520.27962afd.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/adewale/plates/gal-2-900.e5c7e470.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/adewale/plates/gal-2-1440.4967697a.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/adewale/plates/gal-3-1440.25fc3a40.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/gal-3-520.9adff32e.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/adewale/plates/gal-3-900.44b1a4ca.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/adewale/plates/gal-3-1440.25fc3a40.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/adewale/plates/gal-4-1200.36cfd78e.webp",
+          "w": 1200,
+          "h": 678,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/gal-4-520.d9ca42fb.webp",
+              "w": 520,
+              "h": 294
+            },
+            {
+              "src": "/images/characters/adewale/plates/gal-4-900.160aeb8d.webp",
+              "w": 900,
+              "h": 508
+            },
+            {
+              "src": "/images/characters/adewale/plates/gal-4-1200.36cfd78e.webp",
+              "w": 1200,
+              "h": 678
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/adewale/plates/gal-5-1200.65d2d7f4.webp",
+          "w": 1200,
+          "h": 595,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/gal-5-520.61bd0db1.webp",
+              "w": 520,
+              "h": 258
+            },
+            {
+              "src": "/images/characters/adewale/plates/gal-5-900.226cd986.webp",
+              "w": 900,
+              "h": 446
+            },
+            {
+              "src": "/images/characters/adewale/plates/gal-5-1200.65d2d7f4.webp",
+              "w": 1200,
+              "h": 595
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/adewale/plates/mom-1-560.a70aff7d.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/mom-1-320.30058e61.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/adewale/plates/mom-1-560.a70aff7d.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/adewale/plates/mom-2-560.6f1df24e.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/mom-2-320.6e9074d0.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/adewale/plates/mom-2-560.6f1df24e.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/adewale/plates/mom-3-560.2d2cd2a8.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/mom-3-320.aa510063.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/adewale/plates/mom-3-560.2d2cd2a8.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/adewale/plates/mom-4-560.0c879944.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/mom-4-320.eb6638e1.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/adewale/plates/mom-4-560.0c879944.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/adewale/plates/mom-5-560.4b67519e.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/mom-5-320.23b89611.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/adewale/plates/mom-5-560.4b67519e.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/adewale/plates/mom-6-560.ab9332ac.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/mom-6-320.6101800d.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/adewale/plates/mom-6-560.ab9332ac.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/adewale/plates/mom-7-560.c0f22c49.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/mom-7-320.a2f49979.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/adewale/plates/mom-7-560.c0f22c49.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/adewale/plates/mom-8-560.55836824.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/adewale/plates/mom-8-320.cd25f93f.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/adewale/plates/mom-8-560.55836824.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "arno": {
+      "render": {
+        "src": "/images/characters/arno/render-1010.238e4a6f.webp",
+        "w": 1010,
+        "h": 1547,
+        "sources": [
+          {
+            "src": "/images/characters/arno/render-360.eaf32dd9.webp",
+            "w": 360,
+            "h": 551
+          },
+          {
+            "src": "/images/characters/arno/render-560.5472679d.webp",
+            "w": 560,
+            "h": 858
+          },
+          {
+            "src": "/images/characters/arno/render-720.d7acd8bb.webp",
+            "w": 720,
+            "h": 1103
+          },
+          {
+            "src": "/images/characters/arno/render-900.eef08a77.webp",
+            "w": 900,
+            "h": 1379
+          },
+          {
+            "src": "/images/characters/arno/render-1010.238e4a6f.webp",
+            "w": 1010,
+            "h": 1547
+          }
+        ],
+        "headX": 0.428
+      },
+      "scene": "paris",
+      "portrait": "/images/characters/arno/portrait.a7b0dec0.webp",
+      "card": "/images/characters/arno/card.674f7c3f.webp",
+      "bio": {
+        "src": "/images/characters/arno/plates/bio-1440.6ade8c3c.webp",
+        "w": 1440,
+        "h": 1572,
+        "sources": [
+          {
+            "src": "/images/characters/arno/plates/bio-720.530f1e41.webp",
+            "w": 720,
+            "h": 786
+          },
+          {
+            "src": "/images/characters/arno/plates/bio-1100.983b665f.webp",
+            "w": 1100,
+            "h": 1201
+          },
+          {
+            "src": "/images/characters/arno/plates/bio-1440.6ade8c3c.webp",
+            "w": 1440,
+            "h": 1572
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/arno/plates/gal-1-1440.cd56179f.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/gal-1-520.aad06d0f.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/arno/plates/gal-1-900.6eebc7d0.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/arno/plates/gal-1-1440.cd56179f.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/arno/plates/gal-2-1440.1477912c.webp",
+          "w": 1440,
+          "h": 803,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/gal-2-520.3bbabb3d.webp",
+              "w": 520,
+              "h": 290
+            },
+            {
+              "src": "/images/characters/arno/plates/gal-2-900.f3ee7fe2.webp",
+              "w": 900,
+              "h": 502
+            },
+            {
+              "src": "/images/characters/arno/plates/gal-2-1440.1477912c.webp",
+              "w": 1440,
+              "h": 803
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/arno/plates/gal-3-1440.b59d7db6.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/gal-3-520.04af96f9.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/arno/plates/gal-3-900.a50e6561.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/arno/plates/gal-3-1440.b59d7db6.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/arno/plates/gal-4-1440.09e20d03.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/gal-4-520.6db51cac.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/arno/plates/gal-4-900.935093e6.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/arno/plates/gal-4-1440.09e20d03.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/arno/plates/gal-5-1440.c1341419.webp",
+          "w": 1440,
+          "h": 720,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/gal-5-520.e1571d12.webp",
+              "w": 520,
+              "h": 260
+            },
+            {
+              "src": "/images/characters/arno/plates/gal-5-900.56bc48ce.webp",
+              "w": 900,
+              "h": 450
+            },
+            {
+              "src": "/images/characters/arno/plates/gal-5-1440.c1341419.webp",
+              "w": 1440,
+              "h": 720
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/arno/plates/mom-1-560.3a414836.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/mom-1-320.6cb5c74a.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/arno/plates/mom-1-560.3a414836.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/arno/plates/mom-2-560.8fe49462.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/mom-2-320.6e023618.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/arno/plates/mom-2-560.8fe49462.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/arno/plates/mom-3-560.f2ed66f8.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/mom-3-320.f2ef0fa8.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/arno/plates/mom-3-560.f2ed66f8.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/arno/plates/mom-4-560.3f0e69fa.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/mom-4-320.2bee3ff1.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/arno/plates/mom-4-560.3f0e69fa.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/arno/plates/mom-5-560.9556cac8.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/mom-5-320.3ed04c5e.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/arno/plates/mom-5-560.9556cac8.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/arno/plates/mom-6-560.647ddbdd.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/mom-6-320.a5da9ef7.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/arno/plates/mom-6-560.647ddbdd.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/arno/plates/mom-7-560.bfe89a14.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/mom-7-320.f00f4040.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/arno/plates/mom-7-560.bfe89a14.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/arno/plates/mom-8-560.c0ab277c.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/arno/plates/mom-8-320.7a57bb1d.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/arno/plates/mom-8-560.c0ab277c.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "jacob": {
+      "render": {
+        "src": "/images/characters/jacob/render-1047.ff7c665d.webp",
+        "w": 1047,
+        "h": 1918,
+        "sources": [
+          {
+            "src": "/images/characters/jacob/render-360.c977b1ce.webp",
+            "w": 360,
+            "h": 659
+          },
+          {
+            "src": "/images/characters/jacob/render-560.1f835286.webp",
+            "w": 560,
+            "h": 1026
+          },
+          {
+            "src": "/images/characters/jacob/render-720.db55401a.webp",
+            "w": 720,
+            "h": 1319
+          },
+          {
+            "src": "/images/characters/jacob/render-900.c04d006a.webp",
+            "w": 900,
+            "h": 1649
+          },
+          {
+            "src": "/images/characters/jacob/render-1047.ff7c665d.webp",
+            "w": 1047,
+            "h": 1918
+          }
+        ],
+        "headX": 0.592
+      },
+      "scene": "london",
+      "portrait": "/images/characters/jacob/portrait.c1f2ae4a.webp",
+      "card": "/images/characters/jacob/card.7d61c897.webp",
+      "bio": {
+        "src": "/images/characters/jacob/plates/bio-1440.677bd58f.webp",
+        "w": 1440,
+        "h": 1440,
+        "sources": [
+          {
+            "src": "/images/characters/jacob/plates/bio-720.235fb7d8.webp",
+            "w": 720,
+            "h": 720
+          },
+          {
+            "src": "/images/characters/jacob/plates/bio-1100.1955c508.webp",
+            "w": 1100,
+            "h": 1100
+          },
+          {
+            "src": "/images/characters/jacob/plates/bio-1440.677bd58f.webp",
+            "w": 1440,
+            "h": 1440
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/jacob/plates/gal-1-1440.41056e13.webp",
+          "w": 1440,
+          "h": 738,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/gal-1-520.9aeb3c7d.webp",
+              "w": 520,
+              "h": 266
+            },
+            {
+              "src": "/images/characters/jacob/plates/gal-1-900.a543386b.webp",
+              "w": 900,
+              "h": 461
+            },
+            {
+              "src": "/images/characters/jacob/plates/gal-1-1440.41056e13.webp",
+              "w": 1440,
+              "h": 738
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/jacob/plates/gal-2-1440.9980fe35.webp",
+          "w": 1440,
+          "h": 1084,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/gal-2-520.2f797da4.webp",
+              "w": 520,
+              "h": 391
+            },
+            {
+              "src": "/images/characters/jacob/plates/gal-2-900.21515251.webp",
+              "w": 900,
+              "h": 678
+            },
+            {
+              "src": "/images/characters/jacob/plates/gal-2-1440.9980fe35.webp",
+              "w": 1440,
+              "h": 1084
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/jacob/plates/gal-3-1440.f0543bfa.webp",
+          "w": 1440,
+          "h": 843,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/gal-3-520.d2ea8522.webp",
+              "w": 520,
+              "h": 304
+            },
+            {
+              "src": "/images/characters/jacob/plates/gal-3-900.4d20f96f.webp",
+              "w": 900,
+              "h": 527
+            },
+            {
+              "src": "/images/characters/jacob/plates/gal-3-1440.f0543bfa.webp",
+              "w": 1440,
+              "h": 843
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/jacob/plates/gal-4-1440.bb8c16ed.webp",
+          "w": 1440,
+          "h": 945,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/gal-4-520.d0dc03f7.webp",
+              "w": 520,
+              "h": 341
+            },
+            {
+              "src": "/images/characters/jacob/plates/gal-4-900.ae1891f2.webp",
+              "w": 900,
+              "h": 591
+            },
+            {
+              "src": "/images/characters/jacob/plates/gal-4-1440.bb8c16ed.webp",
+              "w": 1440,
+              "h": 945
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/jacob/plates/gal-5-1440.727405c5.webp",
+          "w": 1440,
+          "h": 944,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/gal-5-520.7d8f892d.webp",
+              "w": 520,
+              "h": 341
+            },
+            {
+              "src": "/images/characters/jacob/plates/gal-5-900.3bb6ea45.webp",
+              "w": 900,
+              "h": 590
+            },
+            {
+              "src": "/images/characters/jacob/plates/gal-5-1440.727405c5.webp",
+              "w": 1440,
+              "h": 944
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/jacob/plates/mom-1-560.60812dbd.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/mom-1-320.e4df92de.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/jacob/plates/mom-1-560.60812dbd.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/jacob/plates/mom-2-560.480af660.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/mom-2-320.5ff62002.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/jacob/plates/mom-2-560.480af660.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/jacob/plates/mom-3-560.65e2ff55.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/mom-3-320.a9b30441.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/jacob/plates/mom-3-560.65e2ff55.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/jacob/plates/mom-4-560.2da80198.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/mom-4-320.e741f1c7.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/jacob/plates/mom-4-560.2da80198.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/jacob/plates/mom-5-560.6529b813.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/mom-5-320.074ed0ce.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/jacob/plates/mom-5-560.6529b813.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/jacob/plates/mom-6-560.de741b24.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/mom-6-320.2175cf18.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/jacob/plates/mom-6-560.de741b24.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/jacob/plates/mom-7-560.4461078e.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/mom-7-320.d04d338a.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/jacob/plates/mom-7-560.4461078e.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/jacob/plates/mom-8-560.800277aa.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/jacob/plates/mom-8-320.49ac52f1.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/jacob/plates/mom-8-560.800277aa.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "evie": {
+      "render": {
+        "src": "/images/characters/evie/render-1568.abcb7b3a.webp",
+        "w": 1568,
+        "h": 3000,
+        "sources": [
+          {
+            "src": "/images/characters/evie/render-360.cae6a7cb.webp",
+            "w": 360,
+            "h": 689
+          },
+          {
+            "src": "/images/characters/evie/render-560.21edb4fc.webp",
+            "w": 560,
+            "h": 1071
+          },
+          {
+            "src": "/images/characters/evie/render-720.67d20fc2.webp",
+            "w": 720,
+            "h": 1378
+          },
+          {
+            "src": "/images/characters/evie/render-900.81de2c49.webp",
+            "w": 900,
+            "h": 1722
+          },
+          {
+            "src": "/images/characters/evie/render-1400.84b464ba.webp",
+            "w": 1400,
+            "h": 2679
+          },
+          {
+            "src": "/images/characters/evie/render-1568.abcb7b3a.webp",
+            "w": 1568,
+            "h": 3000
+          }
+        ],
+        "headX": 0.549
+      },
+      "scene": "london",
+      "portrait": "/images/characters/evie/portrait.76dd50ff.webp",
+      "card": "/images/characters/evie/card.2eac2df9.webp",
+      "bio": {
+        "src": "/images/characters/evie/plates/bio-1440.f4345492.webp",
+        "w": 1440,
+        "h": 978,
+        "sources": [
+          {
+            "src": "/images/characters/evie/plates/bio-720.f81203f3.webp",
+            "w": 720,
+            "h": 489
+          },
+          {
+            "src": "/images/characters/evie/plates/bio-1100.1eda2833.webp",
+            "w": 1100,
+            "h": 747
+          },
+          {
+            "src": "/images/characters/evie/plates/bio-1440.f4345492.webp",
+            "w": 1440,
+            "h": 978
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/evie/plates/gal-1-1440.c2a4e0e5.webp",
+          "w": 1440,
+          "h": 836,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/gal-1-520.b46f2726.webp",
+              "w": 520,
+              "h": 302
+            },
+            {
+              "src": "/images/characters/evie/plates/gal-1-900.9029a3cc.webp",
+              "w": 900,
+              "h": 522
+            },
+            {
+              "src": "/images/characters/evie/plates/gal-1-1440.c2a4e0e5.webp",
+              "w": 1440,
+              "h": 836
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/evie/plates/gal-2-1440.8eb963a5.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/gal-2-520.8d68d865.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/evie/plates/gal-2-900.5615810d.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/evie/plates/gal-2-1440.8eb963a5.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/evie/plates/gal-3-1440.0e77077d.webp",
+          "w": 1440,
+          "h": 612,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/gal-3-520.d8e7e81c.webp",
+              "w": 520,
+              "h": 221
+            },
+            {
+              "src": "/images/characters/evie/plates/gal-3-900.d1a2b1ff.webp",
+              "w": 900,
+              "h": 382
+            },
+            {
+              "src": "/images/characters/evie/plates/gal-3-1440.0e77077d.webp",
+              "w": 1440,
+              "h": 612
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/evie/plates/gal-4-1440.6080db0d.webp",
+          "w": 1440,
+          "h": 874,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/gal-4-520.b8dd9e09.webp",
+              "w": 520,
+              "h": 316
+            },
+            {
+              "src": "/images/characters/evie/plates/gal-4-900.e1bf0724.webp",
+              "w": 900,
+              "h": 546
+            },
+            {
+              "src": "/images/characters/evie/plates/gal-4-1440.6080db0d.webp",
+              "w": 1440,
+              "h": 874
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/evie/plates/gal-5-1440.388d075b.webp",
+          "w": 1440,
+          "h": 876,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/gal-5-520.f5f47e83.webp",
+              "w": 520,
+              "h": 316
+            },
+            {
+              "src": "/images/characters/evie/plates/gal-5-900.5f90318f.webp",
+              "w": 900,
+              "h": 548
+            },
+            {
+              "src": "/images/characters/evie/plates/gal-5-1440.388d075b.webp",
+              "w": 1440,
+              "h": 876
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/evie/plates/mom-1-560.e126702e.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/mom-1-320.b1a17c93.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/evie/plates/mom-1-560.e126702e.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/evie/plates/mom-2-560.34cbb1fc.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/mom-2-320.5dd7e539.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/evie/plates/mom-2-560.34cbb1fc.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/evie/plates/mom-3-560.ed51de85.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/mom-3-320.57206189.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/evie/plates/mom-3-560.ed51de85.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/evie/plates/mom-4-560.716d0371.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/mom-4-320.87915a06.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/evie/plates/mom-4-560.716d0371.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/evie/plates/mom-5-560.8e174457.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/mom-5-320.58dd7607.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/evie/plates/mom-5-560.8e174457.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/evie/plates/mom-6-560.0abc741e.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/mom-6-320.9c072d1b.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/evie/plates/mom-6-560.0abc741e.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/evie/plates/mom-7-560.f30b1e74.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/mom-7-320.4d881ee3.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/evie/plates/mom-7-560.f30b1e74.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/evie/plates/mom-8-560.53d79716.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/evie/plates/mom-8-320.172eef8a.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/evie/plates/mom-8-560.53d79716.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "desmond": {
+      "render": {
+        "src": "/images/characters/desmond/render-790.c8f65b71.webp",
+        "w": 790,
+        "h": 1536,
+        "sources": [
+          {
+            "src": "/images/characters/desmond/render-360.b9e85159.webp",
+            "w": 360,
+            "h": 700
+          },
+          {
+            "src": "/images/characters/desmond/render-560.aa135b40.webp",
+            "w": 560,
+            "h": 1089
+          },
+          {
+            "src": "/images/characters/desmond/render-720.460cf2bc.webp",
+            "w": 720,
+            "h": 1400
+          },
+          {
+            "src": "/images/characters/desmond/render-790.c8f65b71.webp",
+            "w": 790,
+            "h": 1536
+          }
+        ],
+        "headX": 0.403
+      },
+      "scene": "nexus",
+      "portrait": "/images/characters/desmond/portrait.59c9c9a4.webp",
+      "card": "/images/characters/desmond/card.eeb956c3.webp",
+      "bio": {
+        "src": "/images/characters/desmond/plates/bio-1440.0aa92943.webp",
+        "w": 1440,
+        "h": 559,
+        "sources": [
+          {
+            "src": "/images/characters/desmond/plates/bio-720.e74143ba.webp",
+            "w": 720,
+            "h": 280
+          },
+          {
+            "src": "/images/characters/desmond/plates/bio-1100.2b391e6c.webp",
+            "w": 1100,
+            "h": 427
+          },
+          {
+            "src": "/images/characters/desmond/plates/bio-1440.0aa92943.webp",
+            "w": 1440,
+            "h": 559
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/desmond/plates/gal-1-1440.0a70eacc.webp",
+          "w": 1440,
+          "h": 798,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/gal-1-520.c11853a2.webp",
+              "w": 520,
+              "h": 288
+            },
+            {
+              "src": "/images/characters/desmond/plates/gal-1-900.fbdc5ebb.webp",
+              "w": 900,
+              "h": 499
+            },
+            {
+              "src": "/images/characters/desmond/plates/gal-1-1440.0a70eacc.webp",
+              "w": 1440,
+              "h": 798
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/desmond/plates/gal-2-1440.72f66f2f.webp",
+          "w": 1440,
+          "h": 798,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/gal-2-520.73e419b7.webp",
+              "w": 520,
+              "h": 288
+            },
+            {
+              "src": "/images/characters/desmond/plates/gal-2-900.535aec9c.webp",
+              "w": 900,
+              "h": 499
+            },
+            {
+              "src": "/images/characters/desmond/plates/gal-2-1440.72f66f2f.webp",
+              "w": 1440,
+              "h": 798
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/desmond/plates/gal-3-1440.dda42096.webp",
+          "w": 1440,
+          "h": 798,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/gal-3-520.079c2771.webp",
+              "w": 520,
+              "h": 288
+            },
+            {
+              "src": "/images/characters/desmond/plates/gal-3-900.48c73076.webp",
+              "w": 900,
+              "h": 499
+            },
+            {
+              "src": "/images/characters/desmond/plates/gal-3-1440.dda42096.webp",
+              "w": 1440,
+              "h": 798
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/desmond/plates/gal-4-1440.bf3aaf00.webp",
+          "w": 1440,
+          "h": 832,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/gal-4-520.0ef56375.webp",
+              "w": 520,
+              "h": 300
+            },
+            {
+              "src": "/images/characters/desmond/plates/gal-4-900.0c919669.webp",
+              "w": 900,
+              "h": 520
+            },
+            {
+              "src": "/images/characters/desmond/plates/gal-4-1440.bf3aaf00.webp",
+              "w": 1440,
+              "h": 832
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/desmond/plates/gal-5-1440.69513f9f.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/gal-5-520.306e6b81.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/desmond/plates/gal-5-900.aed10e27.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/desmond/plates/gal-5-1440.69513f9f.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/desmond/plates/mom-1-560.ef4428f5.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/mom-1-320.63b9f401.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/desmond/plates/mom-1-560.ef4428f5.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/desmond/plates/mom-2-560.a8d0a175.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/mom-2-320.f9362136.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/desmond/plates/mom-2-560.a8d0a175.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/desmond/plates/mom-3-560.8441b339.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/mom-3-320.4a93044c.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/desmond/plates/mom-3-560.8441b339.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/desmond/plates/mom-4-560.33dca326.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/mom-4-320.82d180ca.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/desmond/plates/mom-4-560.33dca326.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/desmond/plates/mom-5-560.23e742ef.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/mom-5-320.d363bcaf.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/desmond/plates/mom-5-560.23e742ef.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/desmond/plates/mom-6-560.0a545442.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/mom-6-320.0f074f39.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/desmond/plates/mom-6-560.0a545442.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/desmond/plates/mom-7-560.73684836.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/mom-7-320.cc1c2836.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/desmond/plates/mom-7-560.73684836.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/desmond/plates/mom-8-560.7d3a0dcd.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/desmond/plates/mom-8-320.c23ee437.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/desmond/plates/mom-8-560.7d3a0dcd.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "layla": {
+      "render": {
+        "src": "/images/characters/layla/render-518.b0935909.webp",
+        "w": 518,
+        "h": 1536,
+        "sources": [
+          {
+            "src": "/images/characters/layla/render-360.cfd0ba7a.webp",
+            "w": 360,
+            "h": 1067
+          },
+          {
+            "src": "/images/characters/layla/render-518.b0935909.webp",
+            "w": 518,
+            "h": 1536
+          }
+        ],
+        "headX": 0.432
+      },
+      "scene": "yggdrasil",
+      "portrait": "/images/characters/layla/portrait.beedba2a.webp",
+      "card": "/images/characters/layla/card.4da64c31.webp",
+      "bio": {
+        "src": "/images/characters/layla/plates/bio-1440.5ff0640d.webp",
+        "w": 1440,
+        "h": 853,
+        "sources": [
+          {
+            "src": "/images/characters/layla/plates/bio-720.3e4dc078.webp",
+            "w": 720,
+            "h": 426
+          },
+          {
+            "src": "/images/characters/layla/plates/bio-1100.a7594879.webp",
+            "w": 1100,
+            "h": 652
+          },
+          {
+            "src": "/images/characters/layla/plates/bio-1440.5ff0640d.webp",
+            "w": 1440,
+            "h": 853
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/images/characters/layla/plates/gal-1-1440.d68b010a.webp",
+          "w": 1440,
+          "h": 810,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/gal-1-520.60506efb.webp",
+              "w": 520,
+              "h": 292
+            },
+            {
+              "src": "/images/characters/layla/plates/gal-1-900.6ceb2200.webp",
+              "w": 900,
+              "h": 506
+            },
+            {
+              "src": "/images/characters/layla/plates/gal-1-1440.d68b010a.webp",
+              "w": 1440,
+              "h": 810
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/layla/plates/gal-2-1440.a87b74f4.webp",
+          "w": 1440,
+          "h": 668,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/gal-2-520.2a2b9ea8.webp",
+              "w": 520,
+              "h": 241
+            },
+            {
+              "src": "/images/characters/layla/plates/gal-2-900.b7eff1c5.webp",
+              "w": 900,
+              "h": 418
+            },
+            {
+              "src": "/images/characters/layla/plates/gal-2-1440.a87b74f4.webp",
+              "w": 1440,
+              "h": 668
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/layla/plates/gal-3-1440.81c19d83.webp",
+          "w": 1440,
+          "h": 668,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/gal-3-520.84d93a6a.webp",
+              "w": 520,
+              "h": 241
+            },
+            {
+              "src": "/images/characters/layla/plates/gal-3-900.05de285b.webp",
+              "w": 900,
+              "h": 418
+            },
+            {
+              "src": "/images/characters/layla/plates/gal-3-1440.81c19d83.webp",
+              "w": 1440,
+              "h": 668
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/layla/plates/gal-4-1440.796254b3.webp",
+          "w": 1440,
+          "h": 668,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/gal-4-520.3531776e.webp",
+              "w": 520,
+              "h": 241
+            },
+            {
+              "src": "/images/characters/layla/plates/gal-4-900.16a0d86a.webp",
+              "w": 900,
+              "h": 418
+            },
+            {
+              "src": "/images/characters/layla/plates/gal-4-1440.796254b3.webp",
+              "w": 1440,
+              "h": 668
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/layla/plates/gal-5-1440.0b1a9382.webp",
+          "w": 1440,
+          "h": 668,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/gal-5-520.8d173b51.webp",
+              "w": 520,
+              "h": 241
+            },
+            {
+              "src": "/images/characters/layla/plates/gal-5-900.61b2d927.webp",
+              "w": 900,
+              "h": 418
+            },
+            {
+              "src": "/images/characters/layla/plates/gal-5-1440.0b1a9382.webp",
+              "w": 1440,
+              "h": 668
+            }
+          ]
+        }
+      ],
+      "moments": [
+        {
+          "src": "/images/characters/layla/plates/mom-1-560.afdca5a7.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/mom-1-320.ef8e0f2f.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/layla/plates/mom-1-560.afdca5a7.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/layla/plates/mom-2-560.2a4237a7.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/mom-2-320.c877c574.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/layla/plates/mom-2-560.2a4237a7.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/layla/plates/mom-3-560.adf141c3.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/mom-3-320.d5b5d2dd.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/layla/plates/mom-3-560.adf141c3.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/layla/plates/mom-4-560.3b6ef74f.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/mom-4-320.e0c2da53.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/layla/plates/mom-4-560.3b6ef74f.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/layla/plates/mom-5-560.adbb6bbb.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/mom-5-320.e0772d5f.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/layla/plates/mom-5-560.adbb6bbb.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/layla/plates/mom-6-560.24a12b66.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/mom-6-320.adc646d2.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/layla/plates/mom-6-560.24a12b66.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/layla/plates/mom-7-560.137abf45.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/mom-7-320.ce3cb77f.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/layla/plates/mom-7-560.137abf45.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        },
+        {
+          "src": "/images/characters/layla/plates/mom-8-560.ed320123.webp",
+          "w": 560,
+          "h": 336,
+          "sources": [
+            {
+              "src": "/images/characters/layla/plates/mom-8-320.96582509.webp",
+              "w": 320,
+              "h": 192
+            },
+            {
+              "src": "/images/characters/layla/plates/mom-8-560.ed320123.webp",
+              "w": 560,
+              "h": 336
+            }
+          ]
+        }
+      ]
+    },
+    "giovanni-auditore": {
+      "portrait": "/images/characters/giovanni-auditore/portrait.7c50e050.webp"
+    },
+    "maria-auditore": {
+      "portrait": "/images/characters/maria-auditore/portrait.e541e260.webp"
+    },
+    "federico-auditore": {
+      "portrait": "/images/characters/federico-auditore/portrait.b911e20d.webp"
+    },
+    "claudia-auditore": {
+      "portrait": "/images/characters/claudia-auditore/portrait.93beedbb.webp"
+    },
+    "petruccio-auditore": {
+      "portrait": "/images/characters/petruccio-auditore/portrait.0d67aa00.webp"
+    },
+    "mario-auditore": {
+      "portrait": "/images/characters/mario-auditore/portrait.ba483898.webp"
+    },
+    "sofia-sartor": {
+      "portrait": "/images/characters/sofia-sartor/portrait.4531f977.webp"
+    },
+    "flavia-auditore": {
+      "portrait": "/images/characters/flavia-auditore/portrait.a969b500.webp"
+    },
+    "paola": {
+      "portrait": "/images/characters/paola/portrait.b2a59ad9.webp"
+    },
+    "leonardo": {
+      "portrait": "/images/characters/leonardo/portrait.e85d245f.webp"
+    },
+    "machiavelli": {
+      "portrait": "/images/characters/machiavelli/portrait.42ce0f35.webp"
+    },
+    "la-volpe": {
+      "portrait": "/images/characters/la-volpe/portrait.20b4f9bf.webp"
+    },
+    "caterina-sforza": {
+      "portrait": "/images/characters/caterina-sforza/portrait.5318fb62.webp"
+    },
+    "cristina-vespucci": {
+      "portrait": "/images/characters/cristina-vespucci/portrait.43a0c2f6.webp"
+    },
+    "shao-jun": {
+      "portrait": "/images/characters/shao-jun/portrait.ed182fe4.webp"
+    },
+    "rodrigo-borgia": {
+      "portrait": "/images/characters/rodrigo-borgia/portrait.d198a349.webp"
+    },
+    "cesare-borgia": {
+      "portrait": "/images/characters/cesare-borgia/portrait.e765116c.webp"
+    },
+    "ahmet": {
+      "portrait": "/images/characters/ahmet/portrait.687fa5a4.webp"
+    },
+    "caroline-scott": {
+      "portrait": "/images/characters/caroline-scott/portrait.b4771014.webp"
+    },
+    "jennifer-scott": {
+      "portrait": "/images/characters/jennifer-scott/portrait.1bf3f37a.webp"
+    },
+    "ah-tabai": {
+      "portrait": "/images/characters/ah-tabai/portrait.bc5388bb.webp"
+    },
+    "edward-thatch": {
+      "portrait": "/images/characters/edward-thatch/portrait.b6cf98d9.webp"
+    },
+    "mary-read": {
+      "portrait": "/images/characters/mary-read/portrait.b576169a.webp"
+    },
+    "anne-bonny": {
+      "portrait": "/images/characters/anne-bonny/portrait.51503e4d.webp"
+    },
+    "stede-bonnet": {
+      "portrait": "/images/characters/stede-bonnet/portrait.0c7970cf.webp"
+    },
+    "benjamin-hornigold": {
+      "portrait": "/images/characters/benjamin-hornigold/portrait.4f714533.webp"
+    },
+    "bartholomew-roberts": {
+      "portrait": "/images/characters/bartholomew-roberts/portrait.08464d92.webp"
+    },
+    "laureano-torres": {
+      "portrait": "/images/characters/laureano-torres/portrait.0df22c8f.webp"
+    },
+    "woodes-rogers": {
+      "portrait": "/images/characters/woodes-rogers/portrait.f6d928db.webp"
+    },
+    "duncan-walpole": {
+      "portrait": "/images/characters/duncan-walpole/portrait.d9b190f7.webp"
+    },
+    "reginald-birch": {
+      "portrait": "/images/characters/reginald-birch/portrait.ac801225.webp"
+    },
+    "kaniehtiio": {
+      "portrait": "/images/characters/kaniehtiio/portrait.08203e60.webp"
+    },
+    "achilles-davenport": {
+      "portrait": "/images/characters/achilles-davenport/portrait.b51cc387.webp"
+    },
+    "charles-lee": {
+      "portrait": "/images/characters/charles-lee/portrait.2b2a4458.webp"
+    },
+    "elise": {
+      "portrait": "/images/characters/elise/portrait.77bfa717.webp"
+    },
+    "charles-dorian": {
+      "portrait": "/images/characters/charles-dorian/portrait.361d1f54.webp"
+    },
+    "maria-thorpe": {
+      "portrait": "/images/characters/maria-thorpe/portrait.e5a2f306.webp"
+    },
+    "darim": {
+      "portrait": "/images/characters/darim/portrait.fa00f155.webp"
+    },
+    "al-mualim": {
+      "portrait": "/images/characters/al-mualim/portrait.5957fb94.webp"
+    },
+    "aya": {
+      "portrait": "/images/characters/aya/portrait.c62d4fcf.webp"
+    },
+    "khemu": {
+      "portrait": "/images/characters/khemu/portrait.c51b3e18.webp"
+    },
+    "myrrine": {
+      "portrait": "/images/characters/myrrine/portrait.86ccfa2f.webp"
+    },
+    "leonidas": {
+      "portrait": "/images/characters/leonidas/portrait.0a03da5a.webp"
+    },
+    "sigurd": {
+      "portrait": "/images/characters/sigurd/portrait.9d0858de.webp"
+    },
+    "henry-green": {
+      "portrait": "/images/characters/henry-green/portrait.2e02d421.webp"
+    },
+    "fujibayashi-nagato": {
+      "portrait": "/images/characters/fujibayashi-nagato/portrait.d75bbe6b.webp"
+    },
+    "william-miles": {
+      "portrait": "/images/characters/william-miles/portrait.61b500e7.webp"
+    }
+  },
+  "scenes": {
+    "masyaf": {
+      "src": "/images/scenes/masyaf-1672.15279029.webp",
+      "w": 1672,
+      "h": 941,
+      "sources": [
+        {
+          "src": "/images/scenes/masyaf-960.87b8a330.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "src": "/images/scenes/masyaf-1440.f58e93d2.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "src": "/images/scenes/masyaf-1672.15279029.webp",
+          "w": 1672,
+          "h": 941
+        }
+      ]
+    },
+    "florence": {
+      "src": "/images/scenes/florence-1672.a9c39ad5.webp",
+      "w": 1672,
+      "h": 941,
+      "sources": [
+        {
+          "src": "/images/scenes/florence-960.a4efd3f1.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "src": "/images/scenes/florence-1440.b6c888e8.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "src": "/images/scenes/florence-1672.a9c39ad5.webp",
+          "w": 1672,
+          "h": 941
+        }
+      ]
+    },
+    "frontier": {
+      "src": "/images/scenes/frontier-1672.848821c4.webp",
+      "w": 1672,
+      "h": 941,
+      "sources": [
+        {
+          "src": "/images/scenes/frontier-960.3048fc43.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "src": "/images/scenes/frontier-1440.034a06ac.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "src": "/images/scenes/frontier-1672.848821c4.webp",
+          "w": 1672,
+          "h": 941
+        }
+      ]
+    },
+    "caribbean": {
+      "src": "/images/scenes/caribbean-1672.57b99339.webp",
+      "w": 1672,
+      "h": 941,
+      "sources": [
+        {
+          "src": "/images/scenes/caribbean-960.075e9d51.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "src": "/images/scenes/caribbean-1440.37da326a.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "src": "/images/scenes/caribbean-1672.57b99339.webp",
+          "w": 1672,
+          "h": 941
+        }
+      ]
+    },
+    "havana": {
+      "src": "/images/scenes/havana-2560.786fa6d5.webp",
+      "w": 2560,
+      "h": 1354,
+      "sources": [
+        {
+          "src": "/images/scenes/havana-960.436dc46a.webp",
+          "w": 960,
+          "h": 508
+        },
+        {
+          "src": "/images/scenes/havana-1440.f89d7e3c.webp",
+          "w": 1440,
+          "h": 762
+        },
+        {
+          "src": "/images/scenes/havana-1920.1b16af83.webp",
+          "w": 1920,
+          "h": 1016
+        },
+        {
+          "src": "/images/scenes/havana-2560.786fa6d5.webp",
+          "w": 2560,
+          "h": 1354
+        }
+      ]
+    },
+    "siwa": {
+      "src": "/images/scenes/siwa-2048.e0b1bf72.webp",
+      "w": 2048,
+      "h": 899,
+      "sources": [
+        {
+          "src": "/images/scenes/siwa-960.edf8f47e.webp",
+          "w": 960,
+          "h": 421
+        },
+        {
+          "src": "/images/scenes/siwa-1440.24c07f5a.webp",
+          "w": 1440,
+          "h": 632
+        },
+        {
+          "src": "/images/scenes/siwa-1920.d3af5ea7.webp",
+          "w": 1920,
+          "h": 843
+        },
+        {
+          "src": "/images/scenes/siwa-2048.e0b1bf72.webp",
+          "w": 2048,
+          "h": 899
+        }
+      ]
+    },
+    "aegean": {
+      "src": "/images/scenes/aegean-2048.f0d11763.webp",
+      "w": 2048,
+      "h": 768,
+      "sources": [
+        {
+          "src": "/images/scenes/aegean-960.1a312a99.webp",
+          "w": 960,
+          "h": 360
+        },
+        {
+          "src": "/images/scenes/aegean-1440.d8b2ea58.webp",
+          "w": 1440,
+          "h": 540
+        },
+        {
+          "src": "/images/scenes/aegean-1920.985a0840.webp",
+          "w": 1920,
+          "h": 720
+        },
+        {
+          "src": "/images/scenes/aegean-2048.f0d11763.webp",
+          "w": 2048,
+          "h": 768
+        }
+      ]
+    },
+    "greece": {
+      "src": "/images/scenes/greece-1672.6bef2d26.webp",
+      "w": 1672,
+      "h": 941,
+      "sources": [
+        {
+          "src": "/images/scenes/greece-960.0000a9f3.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "src": "/images/scenes/greece-1440.ecdda001.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "src": "/images/scenes/greece-1672.6bef2d26.webp",
+          "w": 1672,
+          "h": 941
+        }
+      ]
+    },
+    "norway": {
+      "src": "/images/scenes/norway-1672.1eb4158f.webp",
+      "w": 1672,
+      "h": 941,
+      "sources": [
+        {
+          "src": "/images/scenes/norway-960.80499b48.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "src": "/images/scenes/norway-1440.784d4530.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "src": "/images/scenes/norway-1672.1eb4158f.webp",
+          "w": 1672,
+          "h": 941
+        }
+      ]
+    },
+    "baghdad": {
+      "src": "/images/scenes/baghdad-1672.1f84ff83.webp",
+      "w": 1672,
+      "h": 941,
+      "sources": [
+        {
+          "src": "/images/scenes/baghdad-960.e8d430af.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "src": "/images/scenes/baghdad-1440.8e943a17.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "src": "/images/scenes/baghdad-1672.1f84ff83.webp",
+          "w": 1672,
+          "h": 941
+        }
+      ]
+    },
+    "iga": {
+      "src": "/images/scenes/iga-1672.9274aa87.webp",
+      "w": 1672,
+      "h": 941,
+      "sources": [
+        {
+          "src": "/images/scenes/iga-960.58ef18c6.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "src": "/images/scenes/iga-1440.f60e4988.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "src": "/images/scenes/iga-1672.9274aa87.webp",
+          "w": 1672,
+          "h": 941
+        }
+      ]
+    },
+    "kyoto": {
+      "src": "/images/scenes/kyoto-2560.ec388dec.webp",
+      "w": 2560,
+      "h": 1067,
+      "sources": [
+        {
+          "src": "/images/scenes/kyoto-960.86e34806.webp",
+          "w": 960,
+          "h": 400
+        },
+        {
+          "src": "/images/scenes/kyoto-1440.fcb55818.webp",
+          "w": 1440,
+          "h": 600
+        },
+        {
+          "src": "/images/scenes/kyoto-1920.3f898880.webp",
+          "w": 1920,
+          "h": 800
+        },
+        {
+          "src": "/images/scenes/kyoto-2560.ec388dec.webp",
+          "w": 2560,
+          "h": 1067
+        }
+      ]
+    },
+    "paris": {
+      "src": "/images/scenes/paris-1672.ab7b6616.webp",
+      "w": 1672,
+      "h": 941,
+      "sources": [
+        {
+          "src": "/images/scenes/paris-960.1936e621.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "src": "/images/scenes/paris-1440.3b8c909b.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "src": "/images/scenes/paris-1672.ab7b6616.webp",
+          "w": 1672,
+          "h": 941
+        }
+      ]
+    },
+    "london": {
+      "src": "/images/scenes/london-1672.fcf8ff90.webp",
+      "w": 1672,
+      "h": 941,
+      "sources": [
+        {
+          "src": "/images/scenes/london-960.d7b99f4d.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "src": "/images/scenes/london-1440.4ec76880.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "src": "/images/scenes/london-1672.fcf8ff90.webp",
+          "w": 1672,
+          "h": 941
+        }
+      ]
+    },
+    "north-atlantic": {
+      "src": "/images/scenes/north-atlantic-2048.8f664966.webp",
+      "w": 2048,
+      "h": 1229,
+      "sources": [
+        {
+          "src": "/images/scenes/north-atlantic-960.00d4e15b.webp",
+          "w": 960,
+          "h": 576
+        },
+        {
+          "src": "/images/scenes/north-atlantic-1440.20d5c822.webp",
+          "w": 1440,
+          "h": 864
+        },
+        {
+          "src": "/images/scenes/north-atlantic-1920.aedb8a9e.webp",
+          "w": 1920,
+          "h": 1152
+        },
+        {
+          "src": "/images/scenes/north-atlantic-2048.8f664966.webp",
+          "w": 2048,
+          "h": 1229
+        }
+      ]
+    },
+    "new-york": {
+      "src": "/images/scenes/new-york-1920.55327d89.webp",
+      "w": 1920,
+      "h": 996,
+      "sources": [
+        {
+          "src": "/images/scenes/new-york-960.122c5e1e.webp",
+          "w": 960,
+          "h": 498
+        },
+        {
+          "src": "/images/scenes/new-york-1440.71fea3be.webp",
+          "w": 1440,
+          "h": 747
+        },
+        {
+          "src": "/images/scenes/new-york-1920.55327d89.webp",
+          "w": 1920,
+          "h": 996
+        }
+      ]
+    },
+    "new-orleans": {
+      "src": "/images/scenes/new-orleans-1600.afcc971d.webp",
+      "w": 1600,
+      "h": 699,
+      "sources": [
+        {
+          "src": "/images/scenes/new-orleans-960.530217fe.webp",
+          "w": 960,
+          "h": 419
+        },
+        {
+          "src": "/images/scenes/new-orleans-1440.f4e540d3.webp",
+          "w": 1440,
+          "h": 629
+        },
+        {
+          "src": "/images/scenes/new-orleans-1600.afcc971d.webp",
+          "w": 1600,
+          "h": 699
+        }
+      ]
+    },
+    "nexus": {
+      "src": "/images/scenes/nexus-2560.dbae3b8f.webp",
+      "w": 2560,
+      "h": 1391,
+      "sources": [
+        {
+          "src": "/images/scenes/nexus-960.b368f633.webp",
+          "w": 960,
+          "h": 522
+        },
+        {
+          "src": "/images/scenes/nexus-1440.7138bd38.webp",
+          "w": 1440,
+          "h": 782
+        },
+        {
+          "src": "/images/scenes/nexus-1920.7e358f00.webp",
+          "w": 1920,
+          "h": 1043
+        },
+        {
+          "src": "/images/scenes/nexus-2560.dbae3b8f.webp",
+          "w": 2560,
+          "h": 1391
+        }
+      ]
+    },
+    "yggdrasil": {
+      "src": "/images/scenes/yggdrasil-1750.5d7c32bd.webp",
+      "w": 1750,
+      "h": 865,
+      "sources": [
+        {
+          "src": "/images/scenes/yggdrasil-960.73393637.webp",
+          "w": 960,
+          "h": 475
+        },
+        {
+          "src": "/images/scenes/yggdrasil-1440.b92f6260.webp",
+          "w": 1440,
+          "h": 712
+        },
+        {
+          "src": "/images/scenes/yggdrasil-1750.5d7c32bd.webp",
+          "w": 1750,
+          "h": 865
+        }
+      ]
+    }
+  },
+  "banners": {
+    "characters": {
+      "src": "/images/banners/characters.93b25c6b.webp",
+      "w": 2172,
+      "h": 724
+    }
+  }
+}
