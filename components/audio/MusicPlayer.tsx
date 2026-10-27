@@ -10,7 +10,9 @@ const DEFAULT_VOLUME = 0.07;
 
 interface Saved {
   muted?: boolean;
-  index?: number;
+  /** The track's src, not its position: renaming a file would otherwise resume
+      on whatever had moved into that slot. */
+  track?: string;
   volume?: number;
 }
 
@@ -68,7 +70,7 @@ export function MusicPlayer({ tracks }: { tracks: Track[] }) {
   const prefs = useSyncExternalStore(subscribe, getSnapshot, () => EMPTY);
 
   const count = tracks.length;
-  const index = count ? Math.min(Math.max(prefs.index ?? 0, 0), count - 1) : 0;
+  const index = Math.max(tracks.findIndex((t) => t.src === prefs.track), 0);
   const muted = !!prefs.muted;
   const volume = Math.min(Math.max(prefs.volume ?? DEFAULT_VOLUME, 0), 1);
 
@@ -104,7 +106,7 @@ export function MusicPlayer({ tracks }: { tracks: Track[] }) {
   const track = tracks[index];
   const next = () => {
     pausedByUser.current = false;
-    update({ index: (index + 1) % count });
+    update({ track: tracks[(index + 1) % count].src });
   };
 
   const toggle = () => {
