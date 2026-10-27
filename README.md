@@ -143,7 +143,13 @@ in both without any extra step.
 | `lib/art.ts` | Artwork lookup over `public/images/manifest.json` |
 | `lib/typeset.ts` | Measured Cinzel widths, used to fit a name to its column |
 | `scripts/art/` | Fetch and composition pipeline |
-| `docs/` | `design-reference.md` for design decisions, `assets.md` for the art manifest |
+| `docs/` | `architecture.md` for how it all fits together, `design-reference.md` for design decisions, `assets.md` for the art manifest |
+
+## How it works
+
+[`docs/architecture.md`](docs/architecture.md) walks through the whole project: the four
+layers and the rule they follow, the derived relationship graph, the font-metric heading
+system, the build-time image pipeline, and what each file is for.
 
 ## Credits
 
