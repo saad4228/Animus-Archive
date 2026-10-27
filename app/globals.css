@@ -1,0 +1,519 @@
+@import "tailwindcss";
+
+/* ── Tokens ───────────────────────────────────────────────── */
+:root {
+  --ink-950: #0b0a09;
+  --ink-900: #11100e;
+  --ink-850: #171512;
+  --ink-800: #1d1a16;
+  --ink-700: #2a2520;
+  --line: rgb(214 196 160 / 0.14);
+  --line-strong: rgb(214 196 160 / 0.28);
+
+  --bone: #ece3d0;
+  --bone-dim: #bfb39c;
+  --muted: #8d8270;
+
+  --parchment: #e8dcc1;
+  --parchment-deep: #d6c39d;
+  --parchment-ink: #2a2118;
+  --parchment-muted: #6e5c45;
+  --parchment-line: rgb(92 70 44 / 0.28);
+
+  --crimson: #b8141d;
+  --crimson-bright: #d6222b;
+  --crimson-deep: #5c0a0e;
+  --bronze: #a4824f;
+  --gold: #c9a45c;
+
+  /* Per-character, overridden inline on themed sections. */
+  --accent: var(--gold);
+  --sky: #3a2a20;
+  --ground: #120e0b;
+
+  /* Relationship categories: muted, distinguishable, palette-friendly. */
+  --rel-family: #c9a45c;
+  --rel-mentor: #8fa7b8;
+  --rel-ally: #8fae8a;
+  --rel-romance: #c48a9a;
+  --rel-rival: #d6222b;
+  --rel-lineage: #d9c7a0;
+
+  --header-h: 68px;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --font-display: var(--font-cinzel), "Trajan Pro", Georgia, serif;
+  --font-serif: var(--font-garamond), Garamond, Georgia, serif;
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+
+  --color-ink-950: var(--ink-950);
+  --color-ink-900: var(--ink-900);
+  --color-ink-850: var(--ink-850);
+  --color-ink-800: var(--ink-800);
+  --color-ink-700: var(--ink-700);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-bone: var(--bone);
+  --color-bone-dim: var(--bone-dim);
+  --color-muted: var(--muted);
+  --color-parchment: var(--parchment);
+  --color-parchment-deep: var(--parchment-deep);
+  --color-parchment-ink: var(--parchment-ink);
+  --color-parchment-muted: var(--parchment-muted);
+  --color-crimson: var(--crimson);
+  --color-crimson-bright: var(--crimson-bright);
+  --color-crimson-deep: var(--crimson-deep);
+  --color-bronze: var(--bronze);
+  --color-gold: var(--gold);
+  --color-accent: var(--accent);
+}
+
+/* ── Base ─────────────────────────────────────────────────── */
+@layer base {
+html {
+  background: var(--ink-950);
+  scroll-padding-top: calc(var(--header-h) + 16px);
+}
+
+body {
+  background: var(--ink-950);
+  color: var(--bone);
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--crimson);
+  color: var(--bone);
+}
+
+:focus-visible {
+  outline: 2px solid var(--crimson-bright);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+}
+
+/* Custom classes live in the components layer so Tailwind utilities
+   (e.g. `lg:absolute` on a `.grain` element) can still override them. */
+@layer components {
+/* ── Type helpers ─────────────────────────────────────────── */
+.label {
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+}
+
+.eyebrow {
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  letter-spacing: 0.42em;
+  text-transform: uppercase;
+  color: var(--bone-dim);
+}
+
+.display {
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  line-height: 1.02;
+}
+
+/* ── Texture ──────────────────────────────────────────────── */
+.grain {
+  position: relative;
+  isolation: isolate;
+}
+.grain::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0.07;
+  mix-blend-mode: overlay;
+  background-image: url("/images/ui/grain.svg");
+  background-size: 220px;
+}
+
+.parchment {
+  color: var(--parchment-ink);
+  background-color: var(--parchment);
+  background-image:
+    radial-gradient(120% 90% at 20% 10%, rgb(255 248 230 / 0.55), transparent 60%),
+    radial-gradient(90% 80% at 90% 100%, rgb(150 110 60 / 0.28), transparent 65%),
+    radial-gradient(60% 50% at 0% 100%, rgb(120 80 40 / 0.18), transparent 70%),
+    url("/images/ui/paper.svg");
+  background-size: auto, auto, auto, 320px;
+}
+}
+
+/* Torn left edge that dissolves into the art beside it. A utility so `lg:` works. */
+@utility torn-left {
+  -webkit-mask-image: url("/images/ui/torn-edge.svg"), linear-gradient(#000, #000);
+  -webkit-mask-size: 48px 480px, calc(100% - 46px) 100%;
+  -webkit-mask-position: left top, right top;
+  -webkit-mask-repeat: repeat-y, no-repeat;
+  mask-image: url("/images/ui/torn-edge.svg"), linear-gradient(#000, #000);
+  mask-size: 48px 480px, calc(100% - 46px) 100%;
+  mask-position: left top, right top;
+  mask-repeat: repeat-y, no-repeat;
+}
+
+@layer components {
+/* ── Shared components ───────────────────────────────────── */
+.btn-outline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.9rem;
+  padding: 0.85rem 1.4rem;
+  border: 1px solid var(--crimson);
+  font-family: var(--font-display);
+  font-size: 0.74rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--bone);
+  transition: background-color 0.2s, border-color 0.2s;
+}
+.btn-outline:hover {
+  background: rgb(184 20 29 / 0.16);
+  border-color: var(--crimson-bright);
+}
+.btn-outline svg {
+  color: var(--crimson-bright);
+  transition: transform 0.2s;
+}
+.btn-outline:hover svg {
+  transform: translateX(3px);
+}
+
+.diamond {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  transform: rotate(45deg);
+  border: 1px solid currentColor;
+}
+
+/* Rule with a diamond at the centre, used under title blocks. */
+.diamond-rule {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--crimson-bright);
+}
+.diamond-rule::before,
+.diamond-rule::after {
+  content: "";
+  height: 1px;
+  width: 4.5rem;
+  background: linear-gradient(90deg, transparent, var(--line-strong));
+}
+.diamond-rule::after {
+  background: linear-gradient(90deg, var(--line-strong), transparent);
+}
+
+/* The lightbox's previous/next buttons. */
+.lightbox-step {
+  position: absolute;
+  top: 50%;
+  display: grid;
+  place-items: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  translate: 0 -50%;
+  border: 1px solid var(--line-strong);
+  border-radius: 9999px;
+  background: rgb(11 10 9 / 0.7);
+}
+
+/* Horizontal strips: hide the bar but keep touch and keyboard scrolling. */
+.scroll-strip {
+  scrollbar-width: none;
+  scroll-snap-type: x proximity;
+  overscroll-behavior-x: contain;
+}
+.scroll-strip::-webkit-scrollbar {
+  display: none;
+}
+.scroll-strip > * {
+  scroll-snap-align: start;
+}
+
+/* ── Archive surfaces ────────────────────────────────────────
+   The profile's dark sections are never a flat fill: charcoal pooled in two
+   corners, a scored top and bottom edge, and scratches over the grain. */
+.archive {
+  position: relative;
+  isolation: isolate;
+  background-color: var(--ink-950);
+  background-image:
+    radial-gradient(115% 80% at 12% 0%, rgb(46 40 34 / 0.85), transparent 58%),
+    radial-gradient(95% 85% at 88% 100%, color-mix(in srgb, var(--sky) 45%, transparent), transparent 62%),
+    linear-gradient(180deg, rgb(0 0 0 / 0.55), transparent 16%, transparent 84%, rgb(0 0 0 / 0.65));
+}
+/* Scratches and scuffs, over the art but under the text. */
+.archive::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.1;
+  mix-blend-mode: soft-light;
+  background-image: url("/images/ui/scratches.svg");
+  background-size: 600px;
+}
+
+/* Worn seam between sections: a hairline that rusts towards the middle. */
+.seam {
+  height: 1px;
+  background:
+    linear-gradient(90deg, transparent, var(--line-strong) 18%, var(--line-strong) 82%, transparent),
+    linear-gradient(90deg, transparent 35%, rgb(184 20 29 / 0.5) 50%, transparent 65%);
+}
+
+/* An archival plate: scored border, black bevel inside, shadow below. */
+.plate {
+  border: 1px solid rgb(214 196 160 / 0.22);
+  box-shadow:
+    inset 0 0 0 1px rgb(0 0 0 / 0.65),
+    inset 0 0 36px rgb(0 0 0 / 0.5),
+    0 12px 28px rgb(0 0 0 / 0.5);
+}
+.plate-hot {
+  border-color: rgb(214 34 43 / 0.5);
+  box-shadow:
+    inset 0 0 0 1px rgb(0 0 0 / 0.65),
+    0 0 18px rgb(184 20 29 / 0.28),
+    0 12px 28px rgb(0 0 0 / 0.55);
+}
+
+/* A photograph read as an engraving: blown to line work, screened over the dark. */
+.etched {
+  filter: grayscale(1) contrast(2.8) brightness(1.3);
+  mix-blend-mode: screen;
+}
+
+/* Crimson heading accent with the reference's bloom. */
+.accent-bar {
+  width: 3px;
+  background: linear-gradient(180deg, var(--crimson-bright), var(--crimson) 55%, transparent);
+  box-shadow:
+    0 0 6px rgb(214 34 43 / 0.85),
+    0 0 16px rgb(184 20 29 / 0.5);
+}
+}
+
+/* Distressed edges: artwork dissolves into the page instead of ending on a rectangle. */
+@utility feather-x {
+  mask-image: linear-gradient(90deg, transparent, #000 11%, #000 89%, transparent);
+}
+@utility feather-y {
+  mask-image: linear-gradient(180deg, transparent, #000 13%, #000 87%, transparent);
+}
+/* One radial does all four edges at once; stacking two linear masks needs
+   mask-composite, which the two vendor spellings disagree about. */
+/* Two gradients intersected, so all four sides reach full transparency. A single
+   radial can't: sized to clear the corners it leaves the sides opaque, and sized
+   to clear the sides it eats the picture. */
+@utility feather-edges {
+  mask-image:
+    linear-gradient(90deg, transparent 0%, #000 9%, #000 91%, transparent 100%),
+    linear-gradient(180deg, transparent 0%, #000 10%, #000 90%, transparent 100%);
+  mask-composite: intersect;
+}
+
+/* ── Per-character theme ─────────────────────────────────────
+   Registered so the colours themselves animate when the featured character
+   changes (a plain custom property would snap). */
+@property --accent {
+  syntax: "<color>";
+  inherits: true;
+  initial-value: #c9a45c;
+}
+@property --sky {
+  syntax: "<color>";
+  inherits: true;
+  initial-value: #3a2a20;
+}
+@property --ground {
+  syntax: "<color>";
+  inherits: true;
+  initial-value: #120e0b;
+}
+.theme-shift {
+  transition:
+    --accent 0.9s ease,
+    --sky 1.2s ease,
+    --ground 1.2s ease;
+}
+
+/* Scene layers: the incoming setting settles from a slight zoom while the
+   character steps in; the outgoing layer fades beneath it. */
+@keyframes scene-in {
+  from {
+    opacity: 0;
+    transform: scale(1.06);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@keyframes figure-in {
+  from {
+    opacity: 0;
+    transform: translateX(var(--figure-from, 48px));
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@keyframes layer-out {
+  to {
+    opacity: 0;
+  }
+}
+.scene-in {
+  animation: scene-in 1.3s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+.figure-in {
+  animation: figure-in 0.95s cubic-bezier(0.2, 0.7, 0.2, 1) 0.12s both;
+}
+.layer-out {
+  animation: layer-out 0.7s ease both;
+}
+
+/* ── Active nav item ──────────────────────────────────────────
+   A hairline that flares out from a hollow diamond, like a struck blade.
+   Three pieces: the rule, a bloom that swells around the centre, and the
+   diamond itself. In the components layer so the glow survives Tailwind's
+   utility ordering. */
+@layer components {
+  .nav-active {
+    position: absolute;
+    bottom: -0.55rem;
+    left: -1.1rem;
+    right: -1.1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+  }
+
+  /* The rule: a hairline at the ends, white-hot where it meets the diamond. */
+  .nav-active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(
+      90deg,
+      transparent 0%,
+      #ff1d27 12%,
+      #ff4a52 38%,
+      #ffd2d4 49%,
+      #fff 50%,
+      #ffd2d4 51%,
+      #ff4a52 62%,
+      #ff1d27 88%,
+      transparent 100%
+    );
+    /* drop-shadow, not box-shadow: it follows the gradient's fade rather than the
+       element's box, so the ends glow out to nothing. */
+    filter: drop-shadow(0 0 2px rgb(255 60 70 / 1)) drop-shadow(0 0 7px rgb(255 29 39 / 0.95)) drop-shadow(0 0 16px rgb(255 29 39 / 0.6));
+  }
+
+  /* The flare: the line appears to swell as it nears the diamond. */
+  .nav-active::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    width: 62%;
+    height: 1.15rem;
+    translate: -50% 0;
+    background: radial-gradient(ellipse 50% 50% at 50% 50%, rgb(255 80 90 / 0.95), rgb(255 35 45 / 0.4) 38%, transparent 72%);
+  }
+
+  /* Hollow, so the dark centre reads as a cut-out against any artwork. */
+  .nav-active-diamond {
+    position: relative;
+    z-index: 1;
+    width: 13px;
+    height: 13px;
+    rotate: 45deg;
+    border: 2.5px solid #ff2d38;
+    background: rgb(11 10 9 / 0.88);
+    box-shadow:
+      0 0 3px rgb(255 235 236 / 0.9),
+      0 0 10px rgb(255 45 56 / 1),
+      0 0 22px rgb(255 29 39 / 0.85),
+      0 0 38px rgb(255 29 39 / 0.5),
+      inset 0 0 4px rgb(255 170 175 / 0.65);
+  }
+}
+
+/* Equalizer bars in the music player. */
+@keyframes eq {
+  0%,
+  100% {
+    transform: scaleY(0.3);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+.eq-bar {
+  animation: eq 0.9s ease-in-out infinite;
+  transform-origin: bottom;
+}
+@media (prefers-reduced-motion: reduce) {
+  .eq-bar {
+    animation: none !important;
+    transform: scaleY(0.55);
+  }
+}
+
+/* Cross-fade used by the home hero when the featured character changes. */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.fade-in {
+  animation: fade-in 0.5s ease both;
+}
+.rise-in {
+  animation: rise-in 0.45s ease both;
+}
