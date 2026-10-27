@@ -24,9 +24,24 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: PageProps<"/characters/[slug]">): Promise<Metadata> {
-  const c = getCharacter((await params).slug);
+  const { slug } = await params;
+  const c = getCharacter(slug);
   if (!c?.directory) return { title: "Not in the archive" };
-  return { title: c.name, description: c.role };
+  // Their own bust is the share card; it is already a 3:2 composite over their setting.
+  const card = getArt(c.id).card;
+  return {
+    title: c.name,
+    description: c.role,
+    alternates: { canonical: `/characters/${slug}` },
+    openGraph: {
+      type: "profile",
+      title: c.name,
+      description: c.role,
+      url: `/characters/${slug}`,
+      images: card ? [{ url: card, width: 900, height: 600, alt: c.name }] : undefined,
+    },
+    twitter: { card: "summary_large_image", title: c.name, description: c.role, images: card ? [card] : undefined },
+  };
 }
 
 /** The dark sections between the hero and the close all share this frame. */

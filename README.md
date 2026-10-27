@@ -114,6 +114,24 @@ npm run art:build   # compose public/images/ and the manifest
 
 Drop any audio files into `public/audio/` and they show up in the header player.
 
+## Deploying
+
+Everything is prerendered, so any host that runs a Next.js build will do. Vercel needs no
+configuration beyond importing the repo.
+
+Set one environment variable so share cards, canonical links and the sitemap use real URLs:
+
+```
+NEXT_PUBLIC_SITE_URL = https://your-domain
+```
+
+It is read at **build** time, not at runtime, so a change to it needs a redeploy. On Vercel you
+can skip it entirely: the build falls back to `VERCEL_PROJECT_PRODUCTION_URL`. Without either,
+URLs fall back to `http://localhost:3000`, which is fine locally and wrong in production.
+
+`/sitemap.xml` and `/robots.txt` are generated from the character list, so new characters appear
+in both without any extra step.
+
 ## Layout
 
 | Path | What's there |
